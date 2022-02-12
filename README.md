@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi 👋, I'm Yuriy
+
+-----------------------------
+###JavaScript Full stack developer
+
 
 <!--
 **Yupiter78/Yupiter78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My name is Yuriy Vedernikov.</br>I'm a Javascript full stack developer.</br> I'm learning the JavaScript programming language and all related technologies.
+####  I'm learning the JavaScript programming language and all related technologies.
