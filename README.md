@@ -1,6 +1,5 @@
 ## Hi 👋, I'm Yuriy
 
------------------------------
 ###JavaScript Full stack developer
 
 
