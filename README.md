@@ -1,6 +1,6 @@
-## Hi 👋, I'm Yuriy
+<h1 align="center"> Hi 👋, I'm Yuriy</h1>
 
-### JavaScript Full stack developer
+<h3 align="center"> JavaScript Full stack developer</h3>
 
 
 <!--
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-####  I'm learning the JavaScript programming language and all related technologies.
+<h4 align="center">  I'm learning the JavaScript programming language and all related technologies</h4>
