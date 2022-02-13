@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yupiter78&theme=solarized" style="margin-right: 10px">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yupiter78&theme=solarized" style="margin-right: 100px">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yupiter78&theme=solarized" style="margin-left: 10px">
 </div>
