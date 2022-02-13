@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
 </div>
 
-<h4 align="center">_This is not a full list of my skills. I'm also open to learn more frontend skills!_</h4>
+<h4 align="center"><em>This is not a full list of my skills. I'm also open to learn more frontend skills!</em></h4>
