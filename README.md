@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 <h4 align="center">  I'm learning the JavaScript programming language and all related technologies</h4>
 
-### Skills and tools
+<h3 align="center">Skills and tools</h3>
 
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<div align="center"><code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+</div>
 
-_This is not a full list of my skills. I'm also open to learn more frontend skills!_
+<h4 align="center">_This is not a full list of my skills. I'm also open to learn more frontend skills!_</h4>
