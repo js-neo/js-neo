@@ -38,20 +38,22 @@ Here are some ideas to get you started:
 
 <h4 align="center"><em>This is not a full list of my skills. I'm also open to learn more frontend skills!</em></h4>
 
-<div align="center">
-<code><img src="https://github-readme-stats.vercel.app/api?username=Yupiter78&hide=stars,issues&show_icons=true&theme=merko&bg_color=fdf6e3"></code>
+<div align="center" style="margin-bottom: 10px">
+<img src="https://github-readme-stats.vercel.app/api?username=Yupiter78&hide=stars,issues&show_icons=true&theme=merko&bg_color=fdf6e3">
+</div>
+
+
+<div align="center" style="margin-bottom: 10px">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yupiter78&theme=solarized">
+</div>
+
+
+<div align="center" style="margin-bottom: 10px">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yupiter78&theme=solarized">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yupiter78&theme=solarized">
 </div>
 
 <div align="center">
-<code><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yupiter78&theme=solarized"></code>
-</div>
-
-<div align="center">
-<code><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yupiter78&theme=solarized"></code>
-<code><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yupiter78&theme=solarized"></code>
-</div>
-
-<div align="center">
-<code><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yupiter78&theme=solarized"></code>
-<code><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yupiter78&theme=solarized"></code>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yupiter78&theme=solarized">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yupiter78&theme=solarized">
 </div>
