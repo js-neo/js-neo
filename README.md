@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Skills and tools</h3>
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px">
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
@@ -36,24 +36,29 @@ Here are some ideas to get you started:
 </div>
 
 
-<h4 align="center"><em>This is not a full list of my skills. I'm also open to learn more frontend skills!</em></h4>
+<div align="center" style="margin-bottom: 20px">
+    <h4>
+    <em>This is not a full list of my skills. I'm also open to learn more frontend skills!</em>
+    </h4>
+</div>
 
-<div align="center" style="margin-bottom: 10px">
+
+<div align="center" style="margin-bottom: 20px">
 <img src="https://github-readme-stats.vercel.app/api?username=Yupiter78&hide=stars,issues&show_icons=true&theme=merko&bg_color=fdf6e3">
 </div>
 
 
-<div align="center" style="margin-bottom: 10px">
+<div align="center" style="margin-bottom: 20px">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yupiter78&theme=solarized">
 </div>
 
 
-<div align="center" style="margin-bottom: 10px">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yupiter78&theme=solarized">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yupiter78&theme=solarized">
+<div align="center" style="margin-bottom: 20px">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yupiter78&theme=solarized"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yupiter78&theme=solarized"/>
 </div>
 
 <div align="center">
-<span style="margin-right: 10px"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yupiter78&theme=solarized"></span>
-<span style="margin-left: 10px"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yupiter78&theme=solarized"></span>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yupiter78&theme=solarized"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yupiter78&theme=solarized"/>
 </div>
