@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 
 <h4 align="center"><em>This is not a full list of my skills. I'm also open to learn more frontend skills!</em></h4>
 
+<div align="center">
 <code><img src="https://github-readme-stats.vercel.app/api?username=Yupiter78&show_icons=true&theme=merko"></code>
+</div>
