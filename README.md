@@ -14,10 +14,10 @@ with the possibility of training to improve my professional level.
 
 <h3 align="center">Skills and tools</h3>
 
-<div align="center" >
+<div align="center" id="icons" >
 <span><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></span>
 <a href="javascript: undefined;"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
-<a href="bla-bla-bla" onclick="return false;"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
+<a href="#icons" onclick="return false;"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
 <a href="javascript: undefined;" onclick="return false;"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
 <img height="30" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/nodejs_plain_logo_icon_146409.svg" />
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
@@ -34,9 +34,9 @@ with the possibility of training to improve my professional level.
 </h4>
 
 
-<span align="center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Yupiter78&hide=stars,issues&show_icons=true&theme=merko&bg_color=fdf6e3">
-</span>
+</div>
 
 
 <div align="center">
