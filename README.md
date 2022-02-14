@@ -16,10 +16,10 @@
 <h3 align="center">Skills and tools</h3>
 
 <div align="center">
-<img height="30" alt="JavaScript" title="JavaScript" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/javascript-seeklogo.com.svg" />
-<img height="30" alt="HTML5" title="HTML5" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/file_type_html_icon_130541.svg" />
-<img height="30" alt="CSS3" title="CSS3" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/file_type_css_icon_130661.svg" />
-<img height="30" alt="React" title="React" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/react_original_logo_icon_146374.svg" />
+<img height="30" alt="JavaScript" title="JavaScript" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/javascript_shield.svg" />
+<img height="30" alt="HTML5" title="HTML5" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/html-5.svg" />
+<img height="30" alt="CSS3" title="CSS3" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/css-3.svg" />
+<img height="30" alt="React" title="React" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/react.svg" />
 <img height="30" alt="NodeJS" title="NodeJS" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/nodejs_plain_logo_icon_146409.svg" />
 <img height="30" alt="Redux" title="Redux" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/redux_original_logo_icon_146365.svg" />
 <img height="30" alt="ExpressJS" title="ExpressJS" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/express_original_logo_icon_146527.svg" />
