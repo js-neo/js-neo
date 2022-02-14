@@ -1,3 +1,5 @@
+![javascript_logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "Javascript")
+
 <h1 align="center"> Hi 👋, I'm Yuriy</h1>
 
 <h3 align="center"> JavaScript Full stack developer</h3>
@@ -13,8 +15,6 @@ with the possibility of training to improve my professional level.
 <h4 align="center">  I'm learning the JavaScript programming language and all related technologies</h4>
 
 <h3 align="center">Skills and tools</h3>
-
-![javascript_logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "Javascript")
 
 <div align="center">
 <img height="30" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
