@@ -25,7 +25,7 @@ with the possibility of training to improve my professional level.
 <img height="30" alt="Bootstrap" title="Bootstrap" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/bootstrap_plain_logo_icon_146619.svg" />
 <img height="30" alt="Git" title="Git" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/git_plain_logo_icon_146507.svg" />
 <img height="30" alt="MongoDB" title="MongoDB" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/mongodb_original_logo_icon_146424.svg" />
-<img height="30" alt="WebStorm" title="WebStorm" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/icons8-webstorm.svg" />
+<img height="30" alt="WebStorm" title="WebStorm" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/webstorm-icon.svg" />
 <img height="30" alt="VSCode" title="VSCode" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/file_type_vscode_icon_130084.svg" />
 <img height="30" alt="Lodash" title="Lodash" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/lodash_logo_icon_168120.svg" />
 </div>
