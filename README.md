@@ -17,7 +17,7 @@ with the possibility of training to improve my professional level.
 ![javascript_logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "Javascript")
 
 <div align="center">
-<img height="30" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img height="30" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
