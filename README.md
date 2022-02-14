@@ -16,8 +16,8 @@ with the possibility of training to improve my professional level.
 
 <div align="center">
 <img height="30" alt="JavaScript" title="JavaScript" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/javascript-seeklogo.com.svg" />
-<img height="30" alt="CSS3" title="CSS3" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/css_original_wordmark_logo_icon_146576.svg" />
-<img height="30" alt="HTML5" title="HTML5" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/html_original_wordmark_logo_icon_146478.svg" />
+<img height="30" alt="HTML5" title="HTML5" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/file_type_html_icon_130541.svg" />
+<img height="30" alt="CSS3" title="CSS3" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/file_type_css_icon_130661.svg" />
 <img height="30" alt="React" title="React" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/react_original_wordmark_logo_icon_146375.svg" />
 <img height="30" alt="NodeJS" title="NodeJS" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/nodejs_plain_logo_icon_146409.svg" />
 <img height="30" alt="Redux" title="Redux" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/redux_original_logo_icon_146365.svg" />
@@ -25,8 +25,8 @@ with the possibility of training to improve my professional level.
 <img height="30" alt="Bootstrap" title="Bootstrap" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/bootstrap_plain_wordmark_logo_icon_146620.svg" />
 <img height="30" alt="Git" title="Git" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/git_plain_logo_icon_146507.svg" />
 <img height="30" alt="MongoDB" title="MongoDB" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/file_type_mongo_icon_130383.svg" />
-<img height="30" alt="Lodash" title="Lodash" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/lodash_logo_icon_168120.svg" />
-<img height="30" alt="Javascript" title="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
+<img height="30" alt="Lodash" title="Lodash" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/lodash_logo_icon_sml_169010.svg" />
+<img height="30" alt="WebStorm" title="WebStorm" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/icons8-webstorm.svg" />
 </div>
 
 
