@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500px" height="568px" viewBox="0 0 1649 1874" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="1649" height="1874" style="fill:rgb(0%,0%,0%);fill-opacity:0.984314;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="1649" height="1874"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(92.156863%,92.156863%,92.156863%);fill-opacity:0.921569;" d="M 279.050781 1335.363281 L 278.40625 1137.996094 C 278.40625 1137.996094 481.636719 1195.214844 596.753906 1224.785156 L 598.683594 362.039062 L 762.683594 362.039062 L 762.683594 1465.867188 Z M 279.050781 1335.363281 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(83.137255%,72.156863%,18.823529%);fill-opacity:1;" d="M 152.996094 1684.445312 L -0.0664062 0.0976562 L 1648.910156 0.738281 L 1497.132812 1683.160156 L 823.136719 1873.453125 Z M 1373.011719 1592.515625 L 1500.992188 149.886719 L 825.710938 149.886719 L 830.855469 1741.019531 Z M 762.683594 361.394531 L 598.683594 361.394531 L 596.753906 1224.785156 L 278.40625 1137.996094 L 279.050781 1335.363281 L 762.683594 1465.867188 Z M 762.683594 361.394531 "/>
+<use xlink:href="#surface6" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,84.705882%,23.529412%);fill-opacity:1;" d="M 825.710938 149.246094 L 1500.992188 149.246094 L 1373.011719 1591.871094 L 825.710938 1740.378906 Z M 1338.28125 1350.148438 L 1382.65625 810.769531 L 1054.664062 847.414062 L 1054.664062 559.402344 L 1404.523438 558.117188 L 1418.671875 361.394531 L 890.664062 363.96875 L 897.738281 1080.136719 L 1216.730469 1025.492188 L 1212.230469 1184.925781 L 890.664062 1270.429688 L 893.878906 1465.867188 Z M 1338.28125 1350.148438 "/>
+</g>
+</svg>
