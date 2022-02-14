@@ -16,12 +16,12 @@ with the possibility of training to improve my professional level.
 
 <div align="center" >
 <span><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></span>
-<a href="javascript:void(0);"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
+<a href="javascript: undefined;"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
 <a href="bla-bla-bla" onclick="return false;"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<a href="javascript: undefined;" onclick="return false;"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
 <img height="30" src="https://github.com/Yupiter78/Yupiter78/blob/main/assets/nodejs_plain_logo_icon_146409.svg" />
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="javascript: undefined;"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
