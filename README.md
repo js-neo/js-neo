@@ -14,6 +14,8 @@ with the possibility of training to improve my professional level.
 
 <h3 align="center">Skills and tools</h3>
 
+![javascript_logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+
 <div align="center" id="icons" >
 <span><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></span>
 <a href="javascript: undefined;"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
