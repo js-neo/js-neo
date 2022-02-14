@@ -2,13 +2,14 @@
 
 <h3 align="center"> JavaScript Full stack developer</h3>
 
-
-- 🔭 I am currently working on a course project Result.school.it
-- 🌱 I am currently studying at the Moscow Financial and Industrial University "Synergy", Moscow
-- 👯 I am looking for a full-time position as a Frontend Developer in an interesting and growing company, 
-with the possibility of training to improve my professional level.
-- 📫 How to reach me: yuriy.jsx@gmail.com
+- 🔭 I am currently working on a course project ***Result.school.it***
+- 🌱 I am currently studying at the ***Moscow Financial and Industrial University "Synergy"***, Moscow
+- 👯 I am looking for a full-time position as a ***Junior Frontend Developer*** in an interesting and growing company,
+  with the possibility of training to improve my professional level.
+- 📫 How to reach me: ***yuriy.jsx@gmail.com***
 - ⚡ Fun fact: I collect a library of books on programming, algorithms and computer architecture
+
+---
 
 <h4 align="center">  I'm learning the JavaScript programming language and all related technologies</h4>
 
@@ -35,11 +36,13 @@ with the possibility of training to improve my professional level.
 <em>This is not a full list of my skills. I'm also open to learn more frontend skills!</em>
 </h4>
 
+---
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Yupiter78&hide=stars,issues&show_icons=true&theme=merko&bg_color=fdf6e3">
 </div>
 
+---
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yupiter78&theme=solarized">
