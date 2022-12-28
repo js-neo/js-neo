@@ -2,13 +2,13 @@
 
 <h3 align="center"> JavaScript Full stack developer</h3>
 
-- 🔭 I wrote the first Javascript code in February 2020, 
-  studying it on my own according to the best guide for a novice web developer:
-  ***"Head First JavaScript Programming: A Brain-Friendly Guide"***.
+- 🔭 I wrote the first Javascript code in February 2020, </br>
+  studying it on my own according to the best guide for a novice web developer:</br>
+  ***"Head First JavaScript Programming: A Brain-Friendly Guide"***.</br>
   Authors: ***Eric Freeman***, ***Elisabeth Robson***.
-- 🔭 In 2021, I graduated with honors from the "JavaScript/DOM/Interfaces course" 
+- 🔭 In 2021, I graduated with honors from the "JavaScript/DOM/Interfaces course" </br>
   in  ***https://learn.javascript.ru/***
-- 🔭 At the beginning of 2022, I graduated from the Junior Frontend Developer course 
+- 🔭 At the beginning of 2022, I graduated from the Junior Frontend Developer course </br>
   and defended my thesis project in ***Result.school.it***
 - 🌱 I am currently studying at the ***Moscow Financial and Industrial University "Synergy"***, Moscow
 - 👯 I am looking for a full-time position as a ***Junior Frontend Developer*** in an interesting and growing company,
