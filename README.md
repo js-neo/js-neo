@@ -2,7 +2,8 @@
 
 <h3 align="center"> JavaScript Full stack developer</h3>
 
-- 🔭 I am currently working on a course project ***Result.school.it***
+- 🔭 At the beginning of 2022, I graduated from the Junior Frontend Developer course 
+- and defended my thesis project in ***Result.school.it***
 - 🌱 I am currently studying at the ***Moscow Financial and Industrial University "Synergy"***, Moscow
 - 👯 I am looking for a full-time position as a ***Junior Frontend Developer*** in an interesting and growing company,
   with the possibility of training to improve my professional level.
