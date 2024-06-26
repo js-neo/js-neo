@@ -10,7 +10,8 @@
   in  ***https://learn.javascript.ru/***
 - 🔭 At the beginning of 2022, I graduated from the Junior Frontend Developer course 
   and defended my thesis project in ***Result.school.it***
-- 🌱 I am currently studying at the ***Moscow Financial and Industrial University "Synergy"***, Moscow
+- 🌱 Currently I am finishing my studies at the Faculty of Information Systems and Technologies with a profile in Web Development
+  at the ***Moscow Financial and Industrial University "Synergy"***, Moscow.
 - 👯 I am looking for a full-time position as a ***Junior Frontend Developer*** in an interesting and growing company,
   with the possibility of training to improve my professional level.
 - 📫 How to reach me: ***yuriy.jsx@gmail.com***
