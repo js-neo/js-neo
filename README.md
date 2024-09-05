@@ -25,10 +25,10 @@ I am a web developer with experience in JavaScript and full-stack technologies. 
 <img height="30" alt="Lodash" title="Lodash" src="https://github.com/js-neo/js-neo/blob/main/assets/lodash_logo_icon_168120.svg" />
 </div>
 
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Redux, Vue.js
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, PostgreSQL
-- **Tools:** Git, Webpack, Docker
+- **Tools:** Git, Webpack, Docker, Lodash, WebStorm, VSCode, Postman
 
 ## 🚀 Projects
 - Developing interactive user interfaces using React and Next.js.
@@ -36,7 +36,7 @@ I am a web developer with experience in JavaScript and full-stack technologies. 
 - Developing RESTful APIs for web applications.
 - Optimizing web application performance and enhancing user experience.
 
-![Project Screenshot](link_to_your_screenshot) <!-- Add a screenshot link here -->
+![Project Screenshot](link_to_your_screenshot) 
 
 ## 📫 Contact Information
 You can reach me at: [yuriy.jsx@gmail.com](mailto:yuriy.jsx@gmail.com)
