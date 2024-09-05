@@ -8,7 +8,23 @@ I am a web developer with experience in JavaScript and full-stack technologies. 
 🔭 At the beginning of 2022, I completed the Junior Frontend Developer course and defended my thesis project at Result.school.it.  
 🌱 Currently, I am finishing my studies at the Faculty of Information Systems and Technologies with a focus on Web Development at the Moscow Financial and Industrial University "Synergy."
 
-## 🛠 Skills
+## 🛠 Skills and tools
+<div align="center">
+<img height="30" alt="JavaScript" title="JavaScript" src="https://github.com/js-neo/js-neo/blob/main/assets/javascript_shield.svg" />
+<img height="30" alt="HTML5" title="HTML5" src="https://github.com/js-neo/js-neo/blob/main/assets/html-5.svg" />
+<img height="30" alt="CSS3" title="CSS3" src="https://github.com/js-neo/js-neo/blob/main/assets/css-3.svg" />
+<img height="30" alt="React" title="React" src="https://github.com/js-neo/js-neo/blob/main/assets/react_original_logo_icon_146374.svg" />
+<img height="30" alt="NodeJS" title="NodeJS" src="https://github.com/js-neo/js-neo/blob/main/assets/nodejs_plain_logo_icon_146409.svg" />
+<img height="30" alt="Redux" title="Redux" src="https://github.com/js-neo/js-neo/blob/main/assets/redux_original_logo_icon_146365.svg" />
+<img height="30" alt="ExpressJS" title="ExpressJS" src="https://github.com/js-neo/js-neo/blob/main/assets/express_original_logo_icon_146527.svg" />
+<img height="30" alt="Bootstrap" title="Bootstrap" src="https://github.com/js-neo/js-neo/blob/main/assets/bootstrap_plain_logo_icon_146619.svg" />
+<img height="30" alt="Git" title="Git" src="https://github.com/js-neo/js-neo/blob/main/assets/git_plain_logo_icon_146507.svg" />
+<img height="30" alt="MongoDB" title="MongoDB" src="https://github.com/js-neo/js-neo/blob/main/assets/mongodb_original_logo_icon_146424.svg" />
+<img height="30" alt="WebStorm" title="WebStorm" src="https://github.com/js-neo/js-neo/blob/main/assets/webstorm-icon.svg" />
+<img height="30" alt="VSCode" title="VSCode" src="https://github.com/js-neo/js-neo/blob/main/assets/file_type_vscode_icon_130084.svg" />
+<img height="30" alt="Lodash" title="Lodash" src="https://github.com/js-neo/js-neo/blob/main/assets/lodash_logo_icon_168120.svg" />
+</div>
+
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Redux, Vue.js
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, PostgreSQL
@@ -39,51 +55,7 @@ You can reach me at: [yuriy.jsx@gmail.com](mailto:yuriy.jsx@gmail.com)
 Thank you for your attention! I look forward to collaboration and exchanging experiences.
 
 
-<h1 align="center"> Hi 👋, I'm Yuriy</h1>
 
-<h3 align="center"> JavaScript Full stack developer</h3>
-
-- 🔭 I wrote the first Javascript code in February 2020, 
-  studying it on my own according to the best guide for a novice web developer:
-  ***"Head First JavaScript Programming: A Brain-Friendly Guide"***.
-  Authors: ***Eric Freeman***, ***Elisabeth Robson***.
-- 🔭 In 2021, I graduated with honors from the "JavaScript/DOM/Interfaces course" 
-  in  ***https://learn.javascript.ru/***
-- 🔭 At the beginning of 2022, I graduated from the Junior Frontend Developer course 
-  and defended my thesis project in ***Result.school.it***
-- 🌱 Currently I am finishing my studies at the Faculty of Information Systems and Technologies with a profile in Web Development
-  at the ***Moscow Financial and Industrial University "Synergy"***, Moscow.
-- 👯 I am looking for a full-time position as a ***Junior Frontend Developer*** in an interesting and growing company,
-  with the possibility of training to improve my professional level.
-- 📫 How to reach me: ***yuriy.jsx@gmail.com***
-- ⚡ Fun fact: I collect a library of books on programming, algorithms and computer architecture
-
----
-
-<h4 align="center">  I'm learning the JavaScript programming language and all related technologies</h4>
-
-<h3 align="center">Skills and tools</h3>
-
-<div align="center">
-<img height="30" alt="JavaScript" title="JavaScript" src="https://github.com/js-neo/js-neo/blob/main/assets/javascript_shield.svg" />
-<img height="30" alt="HTML5" title="HTML5" src="https://github.com/js-neo/js-neo/blob/main/assets/html-5.svg" />
-<img height="30" alt="CSS3" title="CSS3" src="https://github.com/js-neo/js-neo/blob/main/assets/css-3.svg" />
-<img height="30" alt="React" title="React" src="https://github.com/js-neo/js-neo/blob/main/assets/react_original_logo_icon_146374.svg" />
-<img height="30" alt="NodeJS" title="NodeJS" src="https://github.com/js-neo/js-neo/blob/main/assets/nodejs_plain_logo_icon_146409.svg" />
-<img height="30" alt="Redux" title="Redux" src="https://github.com/js-neo/js-neo/blob/main/assets/redux_original_logo_icon_146365.svg" />
-<img height="30" alt="ExpressJS" title="ExpressJS" src="https://github.com/js-neo/js-neo/blob/main/assets/express_original_logo_icon_146527.svg" />
-<img height="30" alt="Bootstrap" title="Bootstrap" src="https://github.com/js-neo/js-neo/blob/main/assets/bootstrap_plain_logo_icon_146619.svg" />
-<img height="30" alt="Git" title="Git" src="https://github.com/js-neo/js-neo/blob/main/assets/git_plain_logo_icon_146507.svg" />
-<img height="30" alt="MongoDB" title="MongoDB" src="https://github.com/js-neo/js-neo/blob/main/assets/mongodb_original_logo_icon_146424.svg" />
-<img height="30" alt="WebStorm" title="WebStorm" src="https://github.com/js-neo/js-neo/blob/main/assets/webstorm-icon.svg" />
-<img height="30" alt="VSCode" title="VSCode" src="https://github.com/js-neo/js-neo/blob/main/assets/file_type_vscode_icon_130084.svg" />
-<img height="30" alt="Lodash" title="Lodash" src="https://github.com/js-neo/js-neo/blob/main/assets/lodash_logo_icon_168120.svg" />
-</div>
-
-
-<h4 align="center">
-<em>This is not a full list of my skills. I'm also open to learn more frontend skills!</em>
-</h4>
 
 ---
 
