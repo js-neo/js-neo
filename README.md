@@ -1,3 +1,44 @@
+# Hi, I'm Yuriy 👋
+
+I am a web developer with experience in JavaScript and full-stack technologies. My goal is to create efficient and user-friendly web applications.
+
+## 🎓 Education
+🔭 In February 2020, I started learning JavaScript independently, following the recommendations of the book "Head First JavaScript Programming: A Brain-Friendly Guide" by Eric Freeman and Elisabeth Robson.  
+🔭 In 2021, I graduated with honors from the "JavaScript/DOM/Interfaces course" at [learn.javascript.ru](https://learn.javascript.ru/).  
+🔭 At the beginning of 2022, I completed the Junior Frontend Developer course and defended my thesis project at Result.school.it.  
+🌱 Currently, I am finishing my studies at the Faculty of Information Systems and Technologies with a focus on Web Development at the Moscow Financial and Industrial University "Synergy."
+
+## 🛠 Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Redux, Vue.js
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, Webpack, Docker
+
+## 🚀 Projects
+- Developing interactive user interfaces using React and Next.js.
+- Creating and managing application state with Redux.
+- Developing RESTful APIs for web applications.
+- Optimizing web application performance and enhancing user experience.
+
+![Project Screenshot](link_to_your_screenshot) <!-- Add a screenshot link here -->
+
+## 📫 Contact Information
+You can reach me at: [yuriy.jsx@gmail.com](mailto:yuriy.jsx@gmail.com)
+
+## 🌱 Interests
+⚡ I enjoy reading literature on programming, algorithms, and computer architecture. I am constantly striving for self-improvement and enhancing my skills in web development.
+
+## 🔗 Connect with me
+- [LinkedIn](https://ru.linkedin.com/in/yuriy-vedernikov)
+- [GitHub](https://github.com/js-neo)
+- [Twitter X](https://twitter.com/VedernikovYuriy)
+
+
+---
+
+Thank you for your attention! I look forward to collaboration and exchanging experiences.
+
+
 <h1 align="center"> Hi 👋, I'm Yuriy</h1>
 
 <h3 align="center"> JavaScript Full stack developer</h3>
