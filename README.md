@@ -37,9 +37,9 @@ I am a web developer with experience in JavaScript and full-stack technologies. 
 - Optimizing web application performance and enhancing user experience.
 
 <div align="center">
-  <img height="150" alt="Bookstore" src="https://github.com/js-neo/js-neo/blob/main/assets/project_screen.png?raw=true" style="margin: 10px;">
-  <img height="150" alt="Developers team" src="https://github.com/js-neo/js-neo/blob/main/assets/developers_team.png?raw=true" style="margin: 10px;">
-  <img height="150" alt="Pindie-startkid" src="https://github.com/js-neo/js-neo/blob/main/assets/pindie-startkid.png?raw=true" style="margin: 10px;">
+  <img height="150" alt="Bookstore" src="https://github.com/js-neo/js-neo/blob/main/assets/project_screen.png?raw=true" style="margin: 20px;">
+  <img height="150" alt="Developers team" src="https://github.com/js-neo/js-neo/blob/main/assets/developers_team.png?raw=true" style="margin: 20px;">
+  <img height="150" alt="Pindie-startkid" src="https://github.com/js-neo/js-neo/blob/main/assets/pindie-startkid.png?raw=true" style="margin: 20px;">
 </div>
 
 
