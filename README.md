@@ -5,8 +5,8 @@ I am a web developer with experience in JavaScript and full-stack technologies. 
 ## 🎓 Education
 🔭 In February 2020, I started learning JavaScript independently, following the recommendations of the book "Head First JavaScript Programming: A Brain-Friendly Guide" by Eric Freeman and Elisabeth Robson.  
 🔭 In 2021, I graduated with honors from the "JavaScript/DOM/Interfaces course" at [learn.javascript.ru](https://learn.javascript.ru/).  
-🔭 At the beginning of 2022, I completed the Junior Frontend Developer course and defended my thesis project at Result.school.it.  
-🌱 Currently, I am finishing my studies at the Faculty of Information Systems and Technologies with a focus on Web Development at the Moscow Financial and Industrial University "Synergy."
+🔭 At the beginning of 2022, I completed the Junior Frontend Developer course and defended my thesis project at [Result University](https://result.school/).  
+🌱 Currently, I am finishing my studies at the Faculty of Information Systems and Technologies with a focus on Web Development at the [Moscow Financial and Industrial University "Synergy"](https://synergy.ru/)
 
 ## 🛠 Skills and tools
 <div align="center">
