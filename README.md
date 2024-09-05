@@ -36,9 +36,12 @@ I am a web developer with experience in JavaScript and full-stack technologies. 
 - Developing RESTful APIs for web applications.
 - Optimizing web application performance and enhancing user experience.
 
-![Bookstore](https://github.com/js-neo/js-neo/blob/main/assets/project_screen.png?raw=true) 
-![Developers team](https://github.com/js-neo/js-neo/blob/main/assets/developers_team.png?raw=true) 
-![Pindie-startkid](https://github.com/js-neo/js-neo/blob/main/assets/pindie-startkid.png?raw=true) 
+<div align="center">
+  <img height="150" alt="Bookstore" src="https://github.com/js-neo/js-neo/blob/main/assets/project_screen.png?raw=true" style="margin: 10px;">
+  <img height="150" alt="Developers team" src="https://github.com/js-neo/js-neo/blob/main/assets/developers_team.png?raw=true" style="margin: 10px;">
+  <img height="150" alt="Pindie-startkid" src="https://github.com/js-neo/js-neo/blob/main/assets/pindie-startkid.png?raw=true" style="margin: 10px;">
+</div>
+
 
 ## 📫 Contact Information
 You can reach me at: [yuriy.jsx@gmail.com](mailto:yuriy.jsx@gmail.com)
