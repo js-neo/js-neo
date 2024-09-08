@@ -44,7 +44,7 @@ I am a web developer with experience in JavaScript and full-stack technologies. 
 
 
 ## 📫 Contact Information
-You can reach me at: [yuriy.jsx@gmail.com](mailto:yuriy.jsx@gmail.com)
+You can reach me at: [jsneoweb@gmail.com](mailto:jsneoweb@gmail.com)
 
 ## 🌱 Interests
 ⚡ I enjoy reading literature on programming, algorithms, and computer architecture. I am constantly striving for self-improvement and enhancing my skills in web development.
@@ -52,7 +52,8 @@ You can reach me at: [yuriy.jsx@gmail.com](mailto:yuriy.jsx@gmail.com)
 ## 🔗 Connect with me
 - [LinkedIn](https://ru.linkedin.com/in/yuriy-vedernikov)
 - [GitHub](https://github.com/js-neo)
-- [Twitter X](https://twitter.com/VedernikovYuriy)
+- [Twitter X](https://twitter.com/jsneoweb)
+- [Codewars](https://www.codewars.com/users/js-neo)
 
 
 ---
