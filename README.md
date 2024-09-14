@@ -1,6 +1,6 @@
 # Hi, I'm Yuriy 👋
 
-I am a web developer with experience in JavaScript and full-stack technologies. My goal is to create efficient and user-friendly web applications.
+I am a web developer with experience in JavaScript and full stack technologies. My goal is to constantly explore new JavaScript features and technologies to create more efficient and user-friendly web applications.
 
 ## 🎓 Education
 🔭 In February 2020, I started learning JavaScript independently, following the recommendations of the book "Head First JavaScript Programming: A Brain-Friendly Guide" by Eric Freeman and Elisabeth Robson.  
@@ -38,7 +38,7 @@ I am a web developer with experience in JavaScript and full-stack technologies. 
 
 <div align="center">
   <img height="150" alt="Bookstore" src="https://github.com/js-neo/js-neo/blob/main/assets/project_screen.png?raw=true" style="margin: 20px;">
-  <img height="150" alt="Developers team" src="https://github.com/js-neo/js-neo/blob/main/assets/developers_team.png?raw=true" style="margin: 20px;">
+  <img height="150" alt="Developers team" src="https://github.com/js-neo/js-neo/blob/main/assets/developers_team_jsneo.png?raw=true" style="margin: 20px;">
   <img height="150" alt="Pindie-startkid" src="https://github.com/js-neo/js-neo/blob/main/assets/pindie-startkid.png?raw=true" style="margin: 20px;">
 </div>
 
