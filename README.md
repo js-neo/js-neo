@@ -3,12 +3,17 @@
 I am a web developer with experience in JavaScript and full stack technologies. My goal is to constantly explore new JavaScript features and technologies to create more efficient and user-friendly web applications.
 
 ## 🎓 Education
-🔭 In February 2020, I started learning JavaScript independently, following the recommendations of the book "Head First JavaScript Programming: A Brain-Friendly Guide" by Eric Freeman and Elisabeth Robson.  
-🔭 In 2021, I graduated with honors from the "JavaScript/DOM/Interfaces course" at [learn.javascript.ru](https://learn.javascript.ru/).  
-🔭 At the beginning of 2022, I completed the Junior Frontend Developer course and defended my thesis project at [Result University](https://result.school/).  
-🌱 Currently, I am finishing my studies at the Faculty of Information Systems and Technologies with a focus on Web Development at the [Moscow Financial and Industrial University "Synergy"](https://synergy.ru/)
+
+🚀 **February 2020** — Started my programming journey with JavaScript, using *"Head First JavaScript Programming: A Brain-Friendly Guide"* by Eric Freeman and Elisabeth Robson.
+
+🏆 **2021** — Graduated with honors from the **"JavaScript/DOM/Interfaces"** course at [learn.javascript.ru](https://learn.javascript.ru/).
+
+🎯 **2022** — Completed the **"Junior Frontend Developer"** program and defended my thesis at [Result School](https://result.school/).
+
+📜 **2025** — Earned a **Bachelor’s Degree** in *Information Systems and Technologies* (Web Development) from [Synergy University](https://synergy.ru/).
 
 ## 🛠 Skills and tools
+
 <div align="center">
 <img height="30" alt="JavaScript" title="JavaScript" src="https://github.com/js-neo/js-neo/blob/main/assets/javascript_shield.svg" />
 <img height="30" alt="HTML5" title="HTML5" src="https://github.com/js-neo/js-neo/blob/main/assets/html-5.svg" />
@@ -31,6 +36,7 @@ I am a web developer with experience in JavaScript and full stack technologies. 
 - **Tools:** Git, Webpack, Docker, Lodash, WebStorm, VSCode, Postman
 
 ## 🚀 Projects
+
 - Developing interactive user interfaces using React and Next.js.
 - Creating and managing application state with Redux.
 - Developing RESTful APIs for web applications.
@@ -42,26 +48,24 @@ I am a web developer with experience in JavaScript and full stack technologies. 
   <img height="150" alt="Pindie-startkid" src="https://github.com/js-neo/js-neo/blob/main/assets/pindie-startkid.png?raw=true" style="margin: 20px;">
 </div>
 
-
 ## 📫 Contact Information
+
 You can reach me at: [jsneoweb@gmail.com](mailto:jsneoweb@gmail.com)
 
 ## 🌱 Interests
+
 ⚡ I enjoy reading literature on programming, algorithms, and computer architecture. I am constantly striving for self-improvement and enhancing my skills in web development.
 
 ## 🔗 Connect with me
+
 - [LinkedIn](https://ru.linkedin.com/in/yuriy-vedernikov)
 - [GitHub](https://github.com/js-neo)
 - [Twitter X](https://twitter.com/jsneoweb)
 - [Codewars](https://www.codewars.com/users/js-neo)
 
-
 ---
 
 Thank you for your attention! I look forward to collaboration and exchanging experiences.
-
-
-
 
 ---
 
@@ -74,7 +78,6 @@ Thank you for your attention! I look forward to collaboration and exchanging exp
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=js-neo&theme=solarized">
 </div>
-
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=js-neo&theme=solarized"/>
