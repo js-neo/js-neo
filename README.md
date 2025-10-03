@@ -357,7 +357,7 @@ $\color{#00FF41}\text{Этот текст должен быть зеленым �
 
 ## Для терминала:
 $\color{#00FF41}\text{\\$ Loading skills matrix...}$  
-$\color{#00FF41}\text{\\$> Frontend modules: ONLINE}$  
+$\color{#00FF41}\text{\\$ > Frontend modules: ONLINE}$  
 $\color{#00FF41}\text{\\$ Backend systems: OPERATIONAL}$
 
 ## Многострочный текст:
@@ -367,7 +367,7 @@ $\color{#00FF41}\text{Matrix Builder}$
 ## Специальные символы:
 $\color{#00FF41}\text{React • Next.js • TypeScript • Three.js}$
 
-<div align="center" style="background: #0a0a0a; border: 1px solid #00FF41; border-radius: 8px; padding: 20px; margin: 20px 0; font-family: 'Fira Code', monospace;">
+<div style="background: #0a0a0a; border: 1px solid #00FF41; border-radius: 8px; padding: 20px; margin: 20px 0; font-family: 'Fira Code', monospace;">
 
 <div style="text-align: left; max-width: 600px; margin: 0 auto;">
 
@@ -392,7 +392,7 @@ $\color{#00FF41}\text{\\$ > Loading skills matrix...}$
 $\color{#00FF41}\text{\\$> Frontend modules: ONLINE}$
 </p>
 
-$\color{#00FF41}\text{\$> Backend systems: OPERATIONAL}$
+$\color{#00FF41}\text{\\$> Backend systems: OPERATIONAL}$
 
 $\color{#00FF41}\text{\\$> AI processors: ACTIVATED}$
 $\color{#00FF41}\text{\\$> Management systems: SYNCED}$
