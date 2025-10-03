@@ -357,6 +357,7 @@ $\color{#00FF41}\text{Этот текст должен быть зеленым �
 
 ## Для терминала:
 <div>
+
 $\color{#00FF41}\text{\\$ Loading skills matrix...}$  
 $\color{#00FF41}\text{\\$ > Frontend modules: ONLINE}$  
 $\color{#00FF41}\text{\\$ Backend systems: OPERATIONAL}$
