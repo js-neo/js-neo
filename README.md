@@ -440,13 +440,33 @@ $\color{#00FF41}\text{> Backend systems: OPERATIONAL}$
 
 ## Многострочный текст:
 $\color{#00FF41}\text{Full-Stack Developer | AI Architect}$  
-$\color{#00FF41}\text{Matrix Builder}$
+$\color{#00FF41}\text{Matrix Builder}$</br>
 $\color{#00FF41}\text{┌─ SYSTEM STATUS}$</br>
 $\color{#00FF41}\text{├─ Frontend: ONLINE}$</br>
 $\color{#00FF41}\text{├─ Backend: OPERATIONAL}$</br>
+$\color{#00FF41}\text{├─ AI Processors: ACTIVE}$</br>
+$\color{#00FF41}\text{└─ Status: READY FOR MISSIONS}$
+
+
+<div>
+
+$\color{#00FF41}\text{┌─ SYSTEM STATUS}$
+</div>
+<div align="center" style="align-items: center">
+
+$\color{#00FF41}\text{├─ Frontend: ONLINE}$
+</div>
+<div>
+
+$\color{#00FF41}\text{├─ Backend: OPERATIONAL}$</div>
+<div>
+
 $\color{#00FF41}\text{├─ AI Processors: ACTIVE}$
+</div>
+<div>
 
 $\color{#00FF41}\text{└─ Status: READY FOR MISSIONS}$
+</div>
 
 ## Специальные символы:
 $\color{#00FF41}\text{React • Next.js • TypeScript • Three.js}$
