@@ -12,7 +12,7 @@
 
 # <div align="center"><span style="color:#00FF41">🟢$\color{#00FF41}\text{**JS-NEO**}$</span> <span style="color:#666666">▌▌▌▌▌▌▌▌</span><span style="color:#00FF41">$\color{#00FF41}\text{SYSTEM OPERATOR}$</span></div>
 # <div align="center">🟢 $\color{#00FF41}\text{JS-NEO}$ $\color{#666666}\text{▌▌▌▌▌▌▌▌}$ $\color{#00FF41}\text{SYSTEM OPERATOR}$</div>
-# <div align="center">🟢 <span style="font-family: Arial;">JS-NEO</span> ▌▌▌▌▌▌▌▌ <span style="font-family: Arial;">SYSTEM OPERATOR</span></div>
+# <div align="center">🟢 <span style="font-family: Arial;">$\color{#00FF41}\text{**JS-NEO**}$</span> <span style="color:#666666">▌▌▌▌▌▌▌▌</span> <span style="font-family: Arial;">$\color{#00FF41}\text{SYSTEM OPERATOR}$</span></div>
 
 <div align="center">
 
