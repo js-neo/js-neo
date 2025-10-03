@@ -441,10 +441,11 @@ $\color{#00FF41}\text{> Backend systems: OPERATIONAL}$
 ## Многострочный текст:
 $\color{#00FF41}\text{Full-Stack Developer | AI Architect}$  
 $\color{#00FF41}\text{Matrix Builder}$
-$\color{#00FF41}\text{┌─ SYSTEM STATUS}$
-$\color{#00FF41}\text{├─ Frontend: ONLINE}$
-$\color{#00FF41}\text{├─ Backend: OPERATIONAL}$
+$\color{#00FF41}\text{┌─ SYSTEM STATUS}$</br>
+$\color{#00FF41}\text{├─ Frontend: ONLINE}$</br>
+$\color{#00FF41}\text{├─ Backend: OPERATIONAL}$</br>
 $\color{#00FF41}\text{├─ AI Processors: ACTIVE}$
+
 $\color{#00FF41}\text{└─ Status: READY FOR MISSIONS}$
 
 ## Специальные символы:
