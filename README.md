@@ -381,22 +381,45 @@ $\color{#00FF41}\text{Full-Stack Developer | AI Architect | Matrix Builder}$
 js-neo@matrix:~$ system_diagnostic --full
 ```
 
-$\color{#00FF41}\text{$ Loading skills matrix...}$
-$\color{#00FF41}\text{$ Frontend modules: ONLINE}$
-$\color{#00FF41}\text{$ Backend systems: OPERATIONAL}$
-$\color{#00FF41}\text{$ AI processors: ACTIVATED}$
-$\color{#00FF41}\text{$ Management systems: SYNCED}$
-$\color{#00FF41}\text{$ Skills assessment complete. All systems nominal.}$
+$\color{#00FF41}\text{> Loading skills matrix...}$
+$\color{#00FF41}\text{> Frontend modules: ONLINE}$
+$\color{#00FF41}\text{> Backend systems: OPERATIONAL}$
+$\color{#00FF41}\text{> AI processors: ACTIVATED}$
+$\color{#00FF41}\text{> Management systems: SYNCED}$
+$\color{#00FF41}\text{> Skills assessment complete. All systems nominal.}$
 
 ```bash
 js-neo@matrix:~$ connect --professional
 ```
 
-$\color{#00FF41}\text{$ Portfolio: https://js-neo.com}$
-$\color{#00FF41}\text{$ Status: AVAILABLE FOR MISSIONS}$
+$\color{#00FF41}\text{> Portfolio: https://js-neo.com}$
+$\color{#00FF41}\text{> Status: AVAILABLE FOR MISSIONS}$
 
 ```bash
 js-neo@matrix:~$ █
 ```
 
 </div> </div>
+
+
+# Исправленный LaTeX тест
+
+## Правильный способ с text{}
+$\color{#00FF41}\text{Этот текст должен быть зеленым с нормальными пробелами}$
+
+## Для терминала (с экранированием):
+$\color{#00FF41}\text{\$ Loading skills matrix...}$  
+$\color{#00FF41}\text{\$ Frontend modules: ONLINE}$  
+$\color{#00FF41}\text{\$ Backend systems: OPERATIONAL}$
+
+## Или лучше использовать другой символ:
+$\color{#00FF41}\text{> Loading skills matrix...}$  
+$\color{#00FF41}\text{> Frontend modules: ONLINE}$  
+$\color{#00FF41}\text{> Backend systems: OPERATIONAL}$
+
+## Многострочный текст:
+$\color{#00FF41}\text{Full-Stack Developer | AI Architect}$  
+$\color{#00FF41}\text{Matrix Builder}$
+
+## Специальные символы:
+$\color{#00FF41}\text{React • Next.js • TypeScript • Three.js}$
