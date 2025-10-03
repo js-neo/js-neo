@@ -390,7 +390,71 @@ $\color{#00FF41}\text{└─ Status: READY FOR MISSIONS}$
 ## Специальные символы:
 $\color{#00FF41}\text{React • Next.js • TypeScript • Three.js}$
 
+```bash
+# ┌─ TERMINAL SESSION ──────────────────
+js-neo@matrix:~$ whoami
+```
+$\color{#00FF41}\text{Full-Stack Developer | AI Architect}$
 
-## textdollar
-$\color{#00FF41}\text{\textdollar Loading skills matrix...}$
-$\color{#00FF41}\text{\textdollar Frontend modules: ONLINE}$
+```bash
+js-neo@matrix:~$ █
+# └─ END SESSION ───────────────────────
+```
+
+| **CATEGORY** | **TECHNOLOGIES** |
+|:------------:|:----------------:|
+| $\color{#00FF41}\text{Φ FRONTEND}$ | $\color{#00FF41}\text{React}$ $\color{#00FF41}\text{Next.js}$ $\color{#00FF41}\text{TypeScript}$ $\color{#00FF41}\text{Three.js}$ $\color{#00FF41}\text{Tailwind}$ |
+| $\color{#00FF41}\text{Ω BACKEND}$ | $\color{#00FF41}\text{Node.js}$ $\color{#00FF41}\text{Express}$ $\color{#00FF41}\text{Python}$ $\color{#00FF41}\text{PostgreSQL}$ $\color{#00FF41}\text{MongoDB}$ |
+
+| **CATEGORY** | **TECHNOLOGIES** |
+|:------------:|:----------------:|
+| $\color{#00FF41}\text{Φ FRONTEND}$ | `React` `Next.js` `TypeScript` `Three.js` `Tailwind` |
+| $\color{#00FF41}\text{Ω BACKEND}$ | `Node.js` `Express` `Python` `PostgreSQL` `MongoDB` |
+
+| **CATEGORY** | **TECHNOLOGIES** |
+|:------------:|:----------------:|
+| 🟢 $\color{#00FF41}\text{FRONTEND}$ | $\color{#00FF41}\text{React • Next.js • TypeScript • Three.js • Tailwind}$ |
+| 🔧 $\color{#00FF41}\text{BACKEND}$ | $\color{#00FF41}\text{Node.js • Express • Python • PostgreSQL • MongoDB}$ |
+
+## 🟢 TECHNOLOGY MATRIX
+
+### $\color{#00FF41}\text{Φ FRONTEND}$
+$\color{#00FF41}\text{React • Next.js • TypeScript • Three.js • Tailwind}$
+
+### $\color{#00FF41}\text{Ω BACKEND}$
+$\color{#00FF41}\text{Node.js • Express • Python • PostgreSQL • MongoDB}$
+
+### $\color{#00FF41}\text{λ AI/ML}$
+$\color{#00FF41}\text{TensorFlow.js • Pandas • NumPy • Computer Vision • Excel Automation}$
+
+
+| **CATEGORY** | **TECHNOLOGIES** |
+|:------------:|:----------------:|
+| $\color{#00FF41}\text{Φ FRONTEND}$ | ![React](https://img.shields.io/badge/React-00FF41?style=flat) ![Next.js](https://img.shields.io/badge/Next.js-00FF41?style=flat) |
+| $\color{#00FF41}\text{Ω BACKEND}$ | ![Node.js](https://img.shields.io/badge/Node.js-00FF41?style=flat) ![Python](https://img.shields.io/badge/Python-00FF41?style=flat) |
+
+| **CATEGORY** | **TECHNOLOGIES** |
+|:------------:|:----------------:|
+| $\color{#00FF41}\text{Φ FRONTEND}$ | `React` `Next.js` `TypeScript` `Three.js` `Tailwind` |
+| $\color{#00FF41}\text{Ω BACKEND}$ | `Node.js` `Express` `Python` `PostgreSQL` `MongoDB` |
+| $\color{#00FF41}\text{λ AI/ML}$ | `TensorFlow.js` `Pandas` `NumPy` `Computer Vision` `Excel Automation` |
+| $\color{#00FF41}\text{∃ 3D & GRAPHICS}$ | `Three.js` `WebGL` `Canvas API` |
+| $\color{#00FF41}\text{⚙ TOOLS & DEVOPS}$ | `Docker` `Git` `Webpack` `AWS` `CI/CD` |
+
+
+## $\color{#00FF41}\text{λ TECHNOLOGY MATRIX}$
+
+### $\color{#00FF41}\text{Φ FRONTEND}$
+`React` `Next.js` `TypeScript` `Three.js` `Tailwind`
+
+### $\color{#00FF41}\text{Ω BACKEND}$
+`Node.js` `Express` `Python` `PostgreSQL` `MongoDB`
+
+### $\color{#00FF41}\text{λ AI/ML}$
+`TensorFlow.js` `Pandas` `NumPy` `Computer Vision` `Excel Automation`
+
+### $\color{#00FF41}\text{∃ 3D & GRAPHICS}$
+`Three.js` `WebGL` `Canvas API`
+
+### $\color{#00FF41}\text{⚙ TOOLS & DEVOPS}$
+`Docker` `Git` `Webpack` `AWS` `CI/CD`
