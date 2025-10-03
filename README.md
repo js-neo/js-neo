@@ -349,3 +349,54 @@ $\color{#00FF41}\$\ Backend:\ OPERATIONAL$
 $\color{green}$\ Loading\ skills\ matrix...$
 $\color{green}$\ Frontend\ modules:\ ONLINE$
 $\color{green}$\ Backend\ systems:\ OPERATIONAL$
+
+# Исправленный LaTeX тест
+
+## Правильный способ с text{}
+$\color{#00FF41}\text{Этот текст должен быть зеленым с нормальными пробелами}$
+
+## Для терминала:
+$\color{#00FF41}\text{\$ Loading skills matrix...}$  
+$\color{#00FF41}\text{\$ Frontend modules: ONLINE}$  
+$\color{#00FF41}\text{\$ Backend systems: OPERATIONAL}$
+
+## Многострочный текст:
+$\color{#00FF41}\text{Full-Stack Developer | AI Architect}$  
+$\color{#00FF41}\text{Matrix Builder}$
+
+## Специальные символы:
+$\color{#00FF41}\text{React • Next.js • TypeScript • Three.js}$
+
+<div align="center" style="background: #0a0a0a; border: 1px solid #00FF41; border-radius: 8px; padding: 20px; margin: 20px 0; font-family: 'Fira Code', monospace;">
+
+<div style="text-align: left; max-width: 600px; margin: 0 auto;">
+
+```bash
+js-neo@matrix:~$ whoami
+```
+
+$\color{#00FF41}\text{Full-Stack Developer | AI Architect | Matrix Builder}$
+
+```bash
+js-neo@matrix:~$ system_diagnostic --full
+```
+
+$\color{#00FF41}\text{$ Loading skills matrix...}$
+$\color{#00FF41}\text{$ Frontend modules: ONLINE}$
+$\color{#00FF41}\text{$ Backend systems: OPERATIONAL}$
+$\color{#00FF41}\text{$ AI processors: ACTIVATED}$
+$\color{#00FF41}\text{$ Management systems: SYNCED}$
+$\color{#00FF41}\text{$ Skills assessment complete. All systems nominal.}$
+
+```bash
+js-neo@matrix:~$ connect --professional
+```
+
+$\color{#00FF41}\text{$ Portfolio: https://js-neo.com}$
+$\color{#00FF41}\text{$ Status: AVAILABLE FOR MISSIONS}$
+
+```bash
+js-neo@matrix:~$ █
+```
+
+</div> </div>
