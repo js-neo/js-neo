@@ -396,10 +396,10 @@ $\color{#00FF41}\text{\\$> Management systems: SYNCED}$
 
 $\color{#00FF41}\text{\\$> Skills assessment complete. All systems nominal.}$
 
-$\color{#00FF41}\text{┌─ SYSTEM STATUS}$
-$\color{#00FF41}\text{├─ Frontend: ONLINE}$
-$\color{#00FF41}\text{├─ Backend: OPERATIONAL}$
-$\color{#00FF41}\text{├─ AI Processors: ACTIVE}$
+$\color{#00FF41}\text{┌─ SYSTEM STATUS}$</br>
+$\color{#00FF41}\text{├─ Frontend: ONLINE}$</br>
+$\color{#00FF41}\text{├─ Backend: OPERATIONAL}$</br>
+$\color{#00FF41}\text{├─ AI Processors: ACTIVE}$</br>
 $\color{#00FF41}\text{└─ Status: READY FOR MISSIONS}$
 
 ```bash
