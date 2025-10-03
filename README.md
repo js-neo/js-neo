@@ -357,7 +357,7 @@ $\color{#00FF41}\text{Этот текст должен быть зеленым �
 
 ## Для терминала:
 $\color{#00FF41}\text{\\$ Loading skills matrix...}$  
-$\color{#00FF41}\text{\\$ Frontend modules: ONLINE}$  
+$\color{#00FF41}\text{\\$> Frontend modules: ONLINE}$  
 $\color{#00FF41}\text{\\$ Backend systems: OPERATIONAL}$
 
 ## Многострочный текст:
@@ -381,9 +381,18 @@ $\color{#00FF41}\text{Full-Stack Developer | AI Architect | Matrix Builder}$
 js-neo@matrix:~$ system_diagnostic --full
 ```
 
-<p style="text-align: left;">$\color{#00FF41}\text{\\$> Loading skills matrix...}$</p>
-<p>$\color{#00FF41}\text{\\$> Frontend modules: ONLINE}$</p>
-$\color{#00FF41}\text{\\$> Backend systems: OPERATIONAL}$
+<p style="text-align: left;">
+
+$\color{#00FF41}\text{\\$ > Loading skills matrix...}$
+
+</p>
+
+<p style="text-align: left;">
+
+$\color{#00FF41}\text{\\$> Frontend modules: ONLINE}$
+</p>
+
+$\color{#00FF41}\text{\$> Backend systems: OPERATIONAL}$
 
 $\color{#00FF41}\text{\\$> AI processors: ACTIVATED}$
 $\color{#00FF41}\text{\\$> Management systems: SYNCED}$
