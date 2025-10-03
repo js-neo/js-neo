@@ -259,96 +259,6 @@ It's a pity that I can't share some of them.**</span>
 
 </div>
 
-# Тестирование цветов GitHub
-
-## Метод 1: HTML span
-<span style="color: #00FF41;">✅ Этот текст зеленый через span</span>
-
-## Метод 2: HTML div
-<div style="color: #00FF41;">✅ Этот текст зеленый через div</div>
-
-## Метод 3: HTML с CSS
-<style>
-.matrix-text { color: #00FF41; font-family: monospace; }
-</style>
-<span class="matrix-text">✅ Этот текст через CSS класс</span>
-
-## Метод 4: Pre тег
-<pre style="color: #00FF41; background: transparent; border: none;">
-✅ Этот текст в pre теге
-Вторая строка
-</pre>
-
-## Метод 5: Code block
-```html
-<span style="color: #00FF41;">Пример кода</span>
-```
-## HTML span
-<span style="color: #00FF41;">Этот текст должен быть зеленым</span>
-
-## HTML с классом
-<style>.test { color: #00FF41; }</style>
-<span class="test">Этот текст через класс</span>
-
-## Pre тег
-<pre style="color: #00FF41;">Этот текст в pre теге</pre>
-
-## Простой текст
-Просто текст без стилей
-
-<style>
-.matrix-green { color: #00FF41; }
-.matrix-text { color: #00FF41; font-family: 'Fira Code', monospace; }
-</style>
-
-<span class="matrix-green">Твой текст</span>
-
-# Тест LaTeX цветов
-
-## Метод 1: Простой color
-$\color{green}Этот\ текст\ должен\ быть\ зеленым$
-
-## Метод 2: textcolor
-$\textcolor{green}{Этот\ текст\ зеленый}$
-
-## Метод 3: HTML цвет
-$\color{#00FF41}Matrix\ зеленый$
-
-## Метод 4: Несколько цветов
-$\color{green}Зеленый$ $\color{white}Белый$ $\color{green}Снова\ зеленый$
-
-## Метод 5: Блок кода
-```latex
-$\color{green}Full-Stack\ Developer\ |\ AI\ Architect\ |\ Matrix\ Builder$
-```
-
-## 🎯 **Оптимизированная версия для теста:**
-
-```markdown
-# LaTeX Color Test
-
-## Basic Colors
-$\color{green}Green\ Text$  
-$\color{red}Red\ Text$  
-$\color{blue}Blue\ Text$
-
-## Hex Colors
-$\color{#00FF41}Matrix\ Green$  
-$\color{#00FF41}Full\text{-}Stack\ Developer$
-
-## Terminal Simulation
-$\color{#00FF41}\$\ whoami$  
-$\color{#00FF41}Full\text{-}Stack\ Developer\ |\ AI\ Architect$  
-
-$\color{#00FF41}\$\ system\_diagnostic$  
-$\color{#00FF41}\$\ Loading\ skills\ matrix...$  
-$\color{#00FF41}\$\ Frontend:\ ONLINE$  
-$\color{#00FF41}\$\ Backend:\ OPERATIONAL$
-```
-
-$\color{green}$\ Loading\ skills\ matrix...$
-$\color{green}$\ Frontend\ modules:\ ONLINE$
-$\color{green}$\ Backend\ systems:\ OPERATIONAL$
 
 # Исправленный LaTeX тест
 
@@ -410,6 +320,8 @@ $\color{#00FF41}\text{> Portfolio: https://js-neo.com}$
 
 $\color{#00FF41}\text{> Portfolio: \\https://js-neo.com}$
 
+$\color{#00FF41}\text{> Portfolio:}$ [https://js-neo.com](https://js-neo.com)
+
 $\color{#00FF41}\text{> Portfolio: https: //js-neo.com}$
 
 $\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com 
@@ -426,6 +338,22 @@ $\color{#00FF41}\text{┌─ SYSTEM STATUS}$
 $\color{#00FF41}\text{├─ Frontend: ONLINE}$
 $\color{#00FF41}\text{├─ Backend: OPERATIONAL}$
 $\color{#00FF41}\text{├─ AI Processors: ACTIVE}$
+$\color{#00FF41}\text{└─ Status: READY FOR MISSIONS}$
+
+<pre style="display: block;">
+
+$\color{#00FF41}\text{┌─ SYSTEM STATUS}$
+$\color{#00FF41}\text{├─ Frontend: ONLINE}$
+$\color{#00FF41}\text{├─ Backend: OPERATIONAL}$
+$\color{#00FF41}\text{├─ AI Processors: ACTIVE}$
+$\color{#00FF41}\text{└─ Status: READY FOR MISSIONS}$
+
+</pre>
+
+$\color{#00FF41}\text{┌─ SYSTEM STATUS}$  
+$\color{#00FF41}\text{├─ Frontend: ONLINE}$  
+$\color{#00FF41}\text{├─ Backend: OPERATIONAL}$  
+$\color{#00FF41}\text{├─ AI Processors: ACTIVE}$  
 $\color{#00FF41}\text{└─ Status: READY FOR MISSIONS}$
 
 
