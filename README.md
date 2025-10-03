@@ -408,9 +408,11 @@ js-neo@matrix:~$ connect --professional
 
 $\color{#00FF41}\text{> Portfolio: https://js-neo.com}$
 
-$\color{#00FF41}\text{> Portfolio:https://js-neo.com}$
+$\color{#00FF41}\text{> Portfolio: \\https://js-neo.com}$
 
-$\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com
+$\color{#00FF41}\text{> Portfolio: https: //js-neo.com}$
+
+$\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com 
 
 $\color{#00FF41}\text{> Status: AVAILABLE FOR MISSIONS}$
 
