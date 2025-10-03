@@ -403,77 +403,14 @@ js-neo@matrix:~$ █
 
 | **CATEGORY** | **TECHNOLOGIES** |
 |:------------:|:----------------:|
-| $\color{#00FF41}\text{Φ FRONTEND}$ | $\color{#00FF41}\text{React}$ $\color{#00FF41}\text{Next.js}$ $\color{#00FF41}\text{TypeScript}$ $\color{#00FF41}\text{Three.js}$ $\color{#00FF41}\text{Tailwind}$ |
-| $\color{#00FF41}\text{Ω BACKEND}$ | $\color{#00FF41}\text{Node.js}$ $\color{#00FF41}\text{Express}$ $\color{#00FF41}\text{Python}$ $\color{#00FF41}\text{PostgreSQL}$ $\color{#00FF41}\text{MongoDB}$ |
-
-| **CATEGORY** | **TECHNOLOGIES** |
-|:------------:|:----------------:|
-| $\color{#00FF41}\text{Φ FRONTEND}$ | `React` `Next.js` `TypeScript` `Three.js` `Tailwind` |
-| $\color{#00FF41}\text{Ω BACKEND}$ | `Node.js` `Express` `Python` `PostgreSQL` `MongoDB` |
-
-| **CATEGORY** | **TECHNOLOGIES** |
-|:------------:|:----------------:|
-| 🟢 $\color{#00FF41}\text{FRONTEND}$ | $\color{#00FF41}\text{React • Next.js • TypeScript • Three.js • Tailwind}$ |
-| 🔧 $\color{#00FF41}\text{BACKEND}$ | $\color{#00FF41}\text{Node.js • Express • Python • PostgreSQL • MongoDB}$ |
-
-## 🟢 TECHNOLOGY MATRIX
-
-### $\color{#00FF41}\text{Φ FRONTEND}$
-$\color{#00FF41}\text{React • Next.js • TypeScript • Three.js • Tailwind}$
-
-### $\color{#00FF41}\text{Ω BACKEND}$
-$\color{#00FF41}\text{Node.js • Express • Python • PostgreSQL • MongoDB}$
-
-### $\color{#00FF41}\text{λ AI/ML}$
-$\color{#00FF41}\text{TensorFlow.js • Pandas • NumPy • Computer Vision • Excel Automation}$
-
-
-| **CATEGORY** | **TECHNOLOGIES** |
-|:------------:|:----------------:|
 | $\color{#00FF41}\text{Φ FRONTEND}$ | ![React](https://img.shields.io/badge/React-00FF41?style=flat) ![Next.js](https://img.shields.io/badge/Next.js-00FF41?style=flat) |
 | $\color{#00FF41}\text{Ω BACKEND}$ | ![Node.js](https://img.shields.io/badge/Node.js-00FF41?style=flat) ![Python](https://img.shields.io/badge/Python-00FF41?style=flat) |
 
-| **CATEGORY** | **TECHNOLOGIES** |
-|:------------:|:----------------:|
-| $\color{#00FF41}\text{Φ FRONTEND}$ | `React` `Next.js` `TypeScript` `Three.js` `Tailwind` |
-| $\color{#00FF41}\text{Ω BACKEND}$ | `Node.js` `Express` `Python` `PostgreSQL` `MongoDB` |
-| $\color{#00FF41}\text{λ AI/ML}$ | `TensorFlow.js` `Pandas` `NumPy` `Computer Vision` `Excel Automation` |
-| $\color{#00FF41}\text{∃ 3D & GRAPHICS}$ | `Three.js` `WebGL` `Canvas API` |
-| $\color{#00FF41}\text{⚙ TOOLS & DEVOPS}$ | `Docker` `Git` `Webpack` `AWS` `CI/CD` |
-
-
-## $\color{#00FF41}\text{λ TECHNOLOGY MATRIX}$
-
-### $\color{#00FF41}\text{Φ FRONTEND}$
-`React` `Next.js` `TypeScript` `Three.js` `Tailwind`
-
-### $\color{#00FF41}\text{Ω BACKEND}$
-`Node.js` `Express` `Python` `PostgreSQL` `MongoDB`
-
-### $\color{#00FF41}\text{λ AI/ML}$
-`TensorFlow.js` `Pandas` `NumPy` `Computer Vision` `Excel Automation`
-
-### $\color{#00FF41}\text{∃ 3D & GRAPHICS}$
-`Three.js` `WebGL` `Canvas API`
-
-### $\color{#00FF41}\text{⚙ TOOLS & DEVOPS}$
-`Docker` `Git` `Webpack` `AWS` `CI/CD`
 
 | **CATEGORY** | **TECHNOLOGIES** |
 |:------------:|:----------------:|
-| $\color{#00FF41}\text{Φ FRONTEND}$ | ![React](https://img.shields.io/badge/React-00FF41?style=for-the-badge&logo=react&logoColor=white&labelColor=000000&color=00FF41) ![Next.js](https://img.shields.io/badge/Next.js-00FF41?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000&color=00FF41) ![TypeScript](https://img.shields.io/badge/TypeScript-00FF41?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000&color=00FF41) |
-| $\color{#00FF41}\text{Ω BACKEND}$ | ![Node.js](https://img.shields.io/badge/Node.js-00FF41?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000&color=00FF41) ![Express](https://img.shields.io/badge/Express-00FF41?style=for-the-badge&logo=express&logoColor=white&labelColor=000000&color=00FF41) ![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=00FF41) |
-| $\color{#00FF41}\text{λ AI/ML}$ | ![TensorFlow](https://img.shields.io/badge/TensorFlow-00FF41?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000&color=00FF41) ![Pandas](https://img.shields.io/badge/Pandas-00FF41?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000&color=00FF41) ![NumPy](https://img.shields.io/badge/NumPy-00FF41?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000&color=00FF41) |
-
-|                **CATEGORY**                | **TECHNOLOGIES** |
-|:------------------------------------------:|:----------------:|
-|     $\color{#00FF41}\text{Φ FRONTEND}$     | ![React](https://img.shields.io/badge/React-00FF41?style=for-the-badge&logo=react&logoColor=white&labelColor=000000) ![Next.js](https://img.shields.io/badge/Next.js-00FF41?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-00FF41?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000) ![Three.js](https://img.shields.io/badge/Three.js-00FF41?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000) ![Tailwind](https://img.shields.io/badge/Tailwind-00FF41?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000) |
-|     $\color{#00FF41}\text{Ω BACKEND}$      | ![Node.js](https://img.shields.io/badge/Node.js-00FF41?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000) ![Express](https://img.shields.io/badge/Express-00FF41?style=for-the-badge&logo=express&logoColor=white&labelColor=000000) ![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=white&labelColor=000000) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FF41?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000) ![MongoDB](https://img.shields.io/badge/MongoDB-00FF41?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000) |
-|      $\color{#00FF41}\text{λ AI/ML}$       | ![TensorFlow](https://img.shields.io/badge/TensorFlow-00FF41?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000) ![Pandas](https://img.shields.io/badge/Pandas-00FF41?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000) ![NumPy](https://img.shields.io/badge/NumPy-00FF41?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-00FF41?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000) |
-| $\color{#00FF41}\text{∃ 3D \\& GRAPHICS}$  | ![Three.js](https://img.shields.io/badge/Three.js-00FF41?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000) ![WebGL](https://img.shields.io/badge/WebGL-00FF41?style=for-the-badge&logo=webgl&logoColor=white&labelColor=000000) ![Canvas API](https://img.shields.io/badge/Canvas_API-00FF41?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000) |
-| $\color{#00FF41}\text{⚙ TOOLS \\& DEVOPS}$ | ![Docker](https://img.shields.io/badge/Docker-00FF41?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000) ![Git](https://img.shields.io/badge/Git-00FF41?style=for-the-badge&logo=git&logoColor=white&labelColor=000000) ![Webpack](https://img.shields.io/badge/Webpack-00FF41?style=for-the-badge&logo=webpack&logoColor=white&labelColor=000000) ![AWS](https://img.shields.io/badge/AWS-00FF41?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000) ![CI/CD](https://img.shields.io/badge/CI/CD-00FF41?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000) |
-
-https://img.shields.io/badge/React-00FF41?style=flat-square&logo=react&logoColor=white&labelColor=000000
-
-https://img.shields.io/badge/React-00FF41?style=for-the-badge&logo=react&logoColor=white&labelColor=000000&color=00FF41&border=00FF41
-
+| $\color{#00FF41}\text{Φ FRONTEND}$ | ![HTML5](https://img.shields.io/badge/HTML5-00FF41?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000) ![CSS3](https://img.shields.io/badge/CSS3-00FF41?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000) ![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000) ![React](https://img.shields.io/badge/React-00FF41?style=for-the-badge&logo=react&logoColor=white&labelColor=000000) ![Next.js](https://img.shields.io/badge/Next.js-00FF41?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-00FF41?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000) ![Tailwind](https://img.shields.io/badge/Tailwind-00FF41?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000) |
+| $\color{#00FF41}\text{Ω BACKEND}$ | ![Node.js](https://img.shields.io/badge/Node.js-00FF41?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000) ![Express](https://img.shields.io/badge/Express-00FF41?style=for-the-badge&logo=express&logoColor=white&labelColor=000000) ![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=white&labelColor=000000) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FF41?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000) ![MongoDB](https://img.shields.io/badge/MongoDB-00FF41?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000) |
+| $\color{#00FF41}\text{λ AI/ML}$ | ![TensorFlow](https://img.shields.io/badge/TensorFlow-00FF41?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000) ![Pandas](https://img.shields.io/badge/Pandas-00FF41?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000) ![NumPy](https://img.shields.io/badge/NumPy-00FF41?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-00FF41?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000) ![Excel](https://img.shields.io/badge/Excel-00FF41?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=000000) |
+| $\color{#00FF41}\text{∃ 3D & GRAPHICS}$ | ![Three.js](https://img.shields.io/badge/Three.js-00FF41?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000) ![WebGL](https://img.shields.io/badge/WebGL-00FF41?style=for-the-badge&logo=webgl&logoColor=white&labelColor=000000) ![Canvas](https://img.shields.io/badge/Canvas-00FF41?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000) |
+| $\color{#00FF41}\text{⚙ TOOLS & DEVOPS}$ | ![Docker](https://img.shields.io/badge/Docker-00FF41?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000) ![Git](https://img.shields.io/badge/Git-00FF41?style=for-the-badge&logo=git&logoColor=white&labelColor=000000) ![Webpack](https://img.shields.io/badge/Webpack-00FF41?style=for-the-badge&logo=webpack&logoColor=white&labelColor=000000) ![AWS](https://img.shields.io/badge/AWS-00FF41?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000) ![CI/CD](https://img.shields.io/badge/CI/CD-00FF41?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000) |
