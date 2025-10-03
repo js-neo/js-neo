@@ -10,7 +10,7 @@
 
 </div>
 
-# <div align="center"><span style="color:#00FF41">🟢 **JS-NEO**</span> <span style="color:#666666">▌▌▌▌▌▌▌▌</span> <span style="color:#00FF41">SYSTEM OPERATOR</span></div>
+# <div align="center"><span style="color:#00FF41">$\color{#00FF41}\text{🟢 **JS-NEO**}$ </span> <span style="color:#666666">▌▌▌▌▌▌▌▌</span> <span style="color:#00FF41">$\color{#00FF41}\text{SYSTEM OPERATOR}$</span></div>
 
 <div align="center">
 
