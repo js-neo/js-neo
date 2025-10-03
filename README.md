@@ -334,26 +334,11 @@ js-neo@matrix:~$ █
 
 </div> </div>
 
-$\color{#00FF41}\text{┌─ SYSTEM STATUS}$
-$\color{#00FF41}\text{├─ Frontend: ONLINE}$
-$\color{#00FF41}\text{├─ Backend: OPERATIONAL}$
-$\color{#00FF41}\text{├─ AI Processors: ACTIVE}$
-$\color{#00FF41}\text{└─ Status: READY FOR MISSIONS}$
-
-<pre style="display: block;">
-
-$\color{#00FF41}\text{┌─ SYSTEM STATUS}$
-$\color{#00FF41}\text{├─ Frontend: ONLINE}$
-$\color{#00FF41}\text{├─ Backend: OPERATIONAL}$
-$\color{#00FF41}\text{├─ AI Processors: ACTIVE}$
-$\color{#00FF41}\text{└─ Status: READY FOR MISSIONS}$
-
-</pre>
 
 $\color{#00FF41}\text{┌─ SYSTEM STATUS}$  
-$\color{#00FF41}\text{├─ Frontend: ONLINE}$  
-$\color{#00FF41}\text{├─ Backend: OPERATIONAL}$  
-$\color{#00FF41}\text{├─ AI Processors: ACTIVE}$  
+$\color{#00FF41}\text{|-- Frontend: ONLINE}$  
+$\color{#00FF41}\text{|--Backend: OPERATIONAL}$  
+$\color{#00FF41}\text{|-- AI Processors: ACTIVE}$  
 $\color{#00FF41}\text{└─ Status: READY FOR MISSIONS}$
 
 
