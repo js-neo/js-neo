@@ -381,17 +381,13 @@ $\color{#00FF41}\text{Full-Stack Developer | AI Architect | Matrix Builder}$
 js-neo@matrix:~$ system_diagnostic --full
 ```
 
-<p>$\color{#00FF41}\text{> Loading skills matrix...}$</p>
+<p style="text-align: left;">$\color{#00FF41}\text{\\$> Loading skills matrix...}$</p>
+<p>$\color{#00FF41}\text{\\$> Frontend modules: ONLINE}$</p>
+$\color{#00FF41}\text{\\$> Backend systems: OPERATIONAL}$
 
-<p>$\color{#00FF41}\text{> Frontend modules: ONLINE}$</p>
-
-$\color{#00FF41}\text{> Backend systems: OPERATIONAL}$
-
-$\color{#00FF41}\text{> AI processors: ACTIVATED}$
-
-$\color{#00FF41}\text{> Management systems: SYNCED}$
-
-$\color{#00FF41}\text{> Skills assessment complete. All systems nominal.}$
+$\color{#00FF41}\text{\\$> AI processors: ACTIVATED}$
+$\color{#00FF41}\text{\\$> Management systems: SYNCED}$
+$\color{#00FF41}\text{\\$> Skills assessment complete. All systems nominal.}$
 
 ```bash
 js-neo@matrix:~$ connect --professional
