@@ -30,7 +30,7 @@
 ```bash
 js-neo@matrix:~$ whoami
 ```
-<div align="left" style="margin-left: 40px;"> 
+<div align="center"> 
 
 $\color{#00FF41}\text{JS-Neo | Full-Stack Developer | AI Architect | Matrix Builder}$ 
 </div>
