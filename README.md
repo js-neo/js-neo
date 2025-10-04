@@ -1,3 +1,10 @@
+```bash
+js-neo@matrix:~$ system_boot --verbose
+```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> RENDERING MATRIX INTERFACE...}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> LOADING COLOR PROTOCOLS...}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> SYNCHRONIZING SYSTEMS...}$
+
 <div align="center">
 
 ![Matrix Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=WAKE+UP+DEVELOPER...;THE+MATRIX+HAS+YOU.;JS-NEO+SYSTEMS+ONLINE)
