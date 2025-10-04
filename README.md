@@ -66,7 +66,8 @@ js-neo@matrix:~$ █
 
 </div>
 
-$\color{#00FF41}\text{√}$ $\color{#00FF41}\text{EDUCATION}$
+[//]: # ($\color{#00FF41}\text{√}$ $\color{#00FF41}\text{EDUCATION}$)
+## <span style="color:#00FF41">√</span> **EDUCATION**
 <div>
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{Currently pursuing a MASTER'S DEGREE 2025-2027}$  
@@ -173,10 +174,7 @@ $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{"Head First JavaScript Program
 
 </div>
 
-## <span style="color:#00FF41">λ</span> **MATRIX CONNECTIONS**
-
-## $\color{#00FF41}\text{⧖}$ **MATRIX CONNECTIONS**
-## $\color{#00FF41}\text{⧖}$ $\color{#00FF41}\text{MATRIX CONNECTIONS}$
+## <span style="color:#00FF41">⧖</span> **MATRIX CONNECTIONS**
 
 <div align="center">
 
@@ -244,13 +242,9 @@ $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{"Head First JavaScript Program
 >  AWAITING USER INPUT _
 ```
 
-<span style="color:#00FF41">**PORTFOLIO POWERED BY**</span> <span style="color:#00FF41">
-`Next.js`</span> <span style="color:#00FF41">`TypeScript`</span> <span style="color:#00FF41">
-`Three.js`</span> <span style="color:#00FF41">`Tailwind`</span>
+$\color{#00FF41}\text{PORTFOLIO POWERED BY}$ $\color{#00FF41}\text{Next.js}$ $\color{#00FF41}\text{TypeScript}$ $\color{#00FF41}\text{Three.js}$ $\color{#00FF41}\text{Tailwind}$
 
-<span style="color:#00FF41">`🟢 MATRIX SYSTEMS: OPERATIONAL`</span> <span style="color:#00FF41">`|`</span>
-<span style="color:#00FF41">`⭮ CONTACT: OPEN`</span> <span style="color:#00FF41">`|`</span>
-<span style="color:#00FF41">`⇄ LAST UPDATE: 2025`</span>
+$\color{#00FF41}\text{🟢 MATRIX SYSTEMS: OPERATIONAL}$ $\color{#00FF41}\text{│}$ $\color{#00FF41}\text{⭮ CONTACT: OPEN}$ $\color{#00FF41}\text{│}$ $\color{#00FF41}\text{⇄ LAST UPDATE: 2025}$
 
 </div>
 
@@ -258,9 +252,10 @@ $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{"Head First JavaScript Program
 
 <div align="center">
 
-### <span style="color:#00FF41">**"THE MATRIX IS A SYSTEM, NEO. THAT SYSTEM IS OUR ENEMY."**</span> - *Morpheus*
+[//]: # (### <span style="color:#00FF41">**"THE MATRIX IS A SYSTEM, NEO. THAT SYSTEM IS OUR ENEMY."**</span> - *Morpheus*)
 
-<span style="color:#00FF41">**Thank you for visiting my digital world! Feel free to explore my repositories.
-It's a pity that I can't share some of them.**</span>
+$\color{#00FF41}\text{"THE MATRIX IS A SYSTEM, NEO. THAT SYSTEM IS OUR ENEMY."}$ - *Morpheus*
+$\color{#00FF41}\text{Thank you for visiting my digital world! Feel free to explore my repositories.}$
+$\color{#00FF41}\text{It's a pity that I can't share some of them.}$
 
 </div>
