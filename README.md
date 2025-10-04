@@ -72,19 +72,19 @@ js-neo@matrix:~$ █
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{Currently pursuing a MASTER'S DEGREE 2025-2027}$  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Applied Informatics | AI Project Management}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ [Moscow University of Industry and Finance "Synergy"](https://synergy.ru/).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ [Moscow University of Industry and Finance "Synergy"](https://synergy.ru/)  
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{BACHELOR'S DEGREE 2025}$  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Information Systems \\& Technologies | Web Development degree with honors}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ [Synergy University](https://synergy.ru/).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ [Synergy University](https://synergy.ru/)  
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROFESSIONAL TRAINING 2022}$  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Junior Frontend Developer | Graduated with thesis defense}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ [Result School](https://result.school/).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ [Result School](https://result.school/)  
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{ADVANCED COURSE 2021}$  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{JavaScript/DOM/Interfaces | Graduated with Honors}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ [learn.javascript.ru](https://learn.javascript.ru/).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ [learn.javascript.ru](https://learn.javascript.ru/)  
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Started with JavaScript}$  
