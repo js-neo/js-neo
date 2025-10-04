@@ -37,7 +37,7 @@ js-neo@matrix:~$ system_boot --verbose
 ```bash
 js-neo@matrix:~$ whoami
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{JS-Neo | Full-Stack Developer | AI Architect | Matrix Builder}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> JS-Neo | Full-Stack Developer | AI Architect | Matrix Builder}$
 ```bash
 js-neo@matrix:~$ system_diagnostic --full
 ```
