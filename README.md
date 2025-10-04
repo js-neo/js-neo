@@ -30,7 +30,7 @@
 ```bash
 js-neo@matrix:~$ whoami
 ```
-$\color{#00FF41}\text{JS-Neo | Full-Stack Developer | AI Architect | Matrix Builder}$
+<span style="margin-left: 20px;">$\color{#00FF41}\text{JS-Neo | Full-Stack Developer | AI Architect | Matrix Builder}$</span>
 ```bash
 js-neo@matrix:~$ system_diagnostic --full
 ```
