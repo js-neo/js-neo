@@ -173,6 +173,9 @@ $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{"Head First JavaScript Program
 
 </div>
 
+## <span style="color:#00FF41">λ</span> **MATRIX CONNECTIONS**
+
+## $\color{#00FF41}\text{⧖}$ **MATRIX CONNECTIONS**
 ## $\color{#00FF41}\text{⧖}$ $\color{#00FF41}\text{MATRIX CONNECTIONS}$
 
 <div align="center">
@@ -183,11 +186,6 @@ $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{"Head First JavaScript Program
 |  $\color{#00FF41}\text{💼 LINKEDIN}$   | $\color{#00FF41}\text{ACTIVE}$  | <span style="color:#00FF41">[JS-Neo](https://ru.linkedin.com/in/yuriy-vedernikov)</span> |
 |   $\color{#00FF41}\text{🐙 GITHUB}$    | $\color{#00FF41}\text{SYNCING}$ |         <span style="color:#00FF41">[@js-neo](https://github.com/js-neo)</span>          |
 | $\color{#00FF41}\text{📧 MATRIX MAIL}$ |  $\color{#00FF41}\text{READY}$ |    <span style="color:#00FF41">[jsneoweb@gmail.com](mailto:jsneoweb@gmail.com)</span>    |
-
-</div>
-
-<div align="center">
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 </div>
 
