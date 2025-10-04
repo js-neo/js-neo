@@ -23,15 +23,13 @@
 
 ![Matrix Terminal](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=50&color=00FF41&width=600&lines=%24+npm+install+%40js-neo%2Fskills+%E2%96%88;%24+%3E+Success!+Installed%3A+React%2C+Next.js%2C+Three.js...+%E2%96%88;%24+node+deploy-matrix.js+%E2%96%88;%24+%3E+System+rebooted.+Welcome+to+the+real+web+world.+%E2%96%88;%24+%E2%96%88;%24+%E2%96%88)
 
-<div align="center" style="background: #0a0a0a; border: 1px solid #00FF41; border-radius: 8px; padding: 20px; margin: 20px 0; font-family: 'Fira Code', monospace;">
+<div style="background: #0a0a0a; border: 1px solid #00FF41; border-radius: 8px; padding: 20px; margin: 20px 0; font-family: 'Fira Code', monospace;">
 
 <div style="text-align: left; max-width: 600px; margin: 0 auto;">
 
 ```bash
 js-neo@matrix:~$ whoami
 ```
-
-iv style="color: #00FF41; margin-left: 20px; margin-bottom: 15px;"> Full-Stack Developer | AI Architect | Matrix Builder </div>
 $\color{#00FF41}\text{JS-Neo | Full-Stack Developer | AI Architect | Matrix Builder}$
 ```bash
 js-neo@matrix:~$ system_diagnostic --full
@@ -46,7 +44,7 @@ $\color{#00FF41}\text{└─ Status: Skills assessment complete. All systems nom
 ```bash
 js-neo@matrix:~$ connect --professional
 ```
-$\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com
+$\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com  
 $\color{#00FF41}\text{> Status:}$ $\color{#00FF41}\text{AVAILABLE FOR COLLABORATION}$
 
 ```bash
@@ -69,27 +67,27 @@ js-neo@matrix:~$ █
 </div>
 
 $\color{#00FF41}\text{√}$ $\color{#00FF41}\text{EDUCATION}$
-<div align="center">
+<div>
 
-$\color{#00FF41}\text{█}$ $\color{#00FF41}\text{Currently pursuing a MASTER'S DEGREE 2025-2027}$
-$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Applied Informatics | AI Project Management}$
-$\color{#00FF41}\text{∟}$ [Moscow University of Industry and Finance "Synergy"](https://synergy.ru/).
+$\color{#00FF41}\text{█}$ $\color{#00FF41}\text{Currently pursuing a MASTER'S DEGREE 2025-2027}$  
+$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Applied Informatics | AI Project Management}$  
+$\color{#00FF41}\text{∟}$ [Moscow University of Industry and Finance "Synergy"](https://synergy.ru/).  
 
-$\color{#00FF41}\text{█}$ $\color{#00FF41}\text{BACHELOR'S DEGREE 2025}$
-$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Information Systems & Technologies | Web Development degree with honors}$
-$\color{#00FF41}\text{∟}$ [Synergy University](https://synergy.ru/).
+$\color{#00FF41}\text{█}$ $\color{#00FF41}\text{BACHELOR'S DEGREE 2025}$  
+$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Information Systems \\& Technologies | Web Development degree with honors}$  
+$\color{#00FF41}\text{∟}$ [Synergy University](https://synergy.ru/).  
 
-$\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROFESSIONAL TRAINING 2022}$
-$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Junior Frontend Developer | Graduated with thesis defense}$
-$\color{#00FF41}\text{∟}$ [Result School](https://result.school/).
+$\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROFESSIONAL TRAINING 2022}$  
+$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Junior Frontend Developer | Graduated with thesis defense}$  
+$\color{#00FF41}\text{∟}$ [Result School](https://result.school/).  
 
-$\color{#00FF41}\text{█}$ $\color{#00FF41}\text{ADVANCED COURSE 2021}$
-$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{JavaScript/DOM/Interfaces | Graduated with Honors}$
-$\color{#00FF41}\text{∟}$ [learn.javascript.ru](https://learn.javascript.ru/).
+$\color{#00FF41}\text{█}$ $\color{#00FF41}\text{ADVANCED COURSE 2021}$  
+$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{JavaScript/DOM/Interfaces | Graduated with Honors}$  
+$\color{#00FF41}\text{∟}$ [learn.javascript.ru](https://learn.javascript.ru/).  
 
-$\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
-$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Started with JavaScript}$
-$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{"Head First JavaScript Programming"}$
+$\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$  
+$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Started with JavaScript}$  
+$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{"Head First JavaScript Programming"}$  
 
 </div>
 
@@ -175,7 +173,7 @@ $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{"Head First JavaScript Program
 
 </div>
 
-## $\color{#00FF41}\text{⧖}$ $\color{#00FF41}\text{**MATRIX CONNECTIONS**}$
+## $\color{#00FF41}\text{⧖}$ $\color{#00FF41}\text{MATRIX CONNECTIONS}$
 
 <div align="center">
 
