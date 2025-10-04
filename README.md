@@ -30,23 +30,22 @@
 ```bash
 js-neo@matrix:~$ whoami
 ```
-| | $\color{#00FF41}\text{JS-Neo | Full-Stack Developer | AI Architect | Matrix Builder}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{текст}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{JS-Neo | Full-Stack Developer | AI Architect | Matrix Builder}$
 ```bash
 js-neo@matrix:~$ system_diagnostic --full
 ```
-| | $\color{#00FF41}\text{┌─ SYSTEM STATUS: Loading skills matrix...}$  
-| | $\color{#00FF41}\text{├─ Frontend modules: ONLINE}$  
-| | $\color{#00FF41}\text{├─ Backend systems: OPERATIONAL}$  
-| | $\color{#00FF41}\text{├─ AI Processors: ACTIVATED}$  
-| | $\color{#00FF41}\text{├─ Management systems: SYNCED}$  
-| | $\color{#00FF41}\text{└─ Status: Skills assessment complete. All systems nominal.}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{┌─ SYSTEM STATUS: Loading skills matrix...}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Frontend modules: ONLINE}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Backend systems: OPERATIONAL}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ AI Processors: ACTIVATED}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Management systems: SYNCED}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ Status: Skills assessment complete. All systems nominal.}$
 
 ```bash
 js-neo@matrix:~$ connect --professional
 ```
-| | $\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com  
-| | $\color{#00FF41}\text{> Status:}$ $\color{#00FF41}\text{AVAILABLE FOR COLLABORATION}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Status:}$ $\color{#00FF41}\text{AVAILABLE FOR COLLABORATION}$
 
 ```bash
 js-neo@matrix:~$ █
