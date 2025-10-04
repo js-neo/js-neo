@@ -30,22 +30,22 @@
 ```bash
 js-neo@matrix:~$ whoami
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{JS-Neo | Full-Stack Developer | AI Architect | Matrix Builder}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{JS-Neo | Full-Stack Developer | AI Architect | Matrix Builder}$
 ```bash
 js-neo@matrix:~$ system_diagnostic --full
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{┌─ SYSTEM STATUS: Loading skills matrix...}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Frontend modules: ONLINE}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Backend systems: OPERATIONAL}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ AI Processors: ACTIVATED}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Management systems: SYNCED}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ Status: Skills assessment complete. All systems nominal.}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{┌─ SYSTEM STATUS: Loading skills matrix...}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Frontend modules: ONLINE}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Backend systems: OPERATIONAL}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ AI Processors: ACTIVATED}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Management systems: SYNCED}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ Status: Skills assessment complete. All systems nominal.}$
 
 ```bash
 js-neo@matrix:~$ connect --professional
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Status:}$ $\color{#00FF41}\text{AVAILABLE FOR COLLABORATION}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Status:}$ $\color{#00FF41}\text{AVAILABLE FOR COLLABORATION}$
 
 ```bash
 js-neo@matrix:~$ █
@@ -71,24 +71,24 @@ js-neo@matrix:~$ █
 <div>
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{Currently pursuing a MASTER'S DEGREE 2025-2027}$  
-$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Applied Informatics | AI Project Management}$  
-$\color{#00FF41}\text{∟}$ [Moscow University of Industry and Finance "Synergy"](https://synergy.ru/).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Applied Informatics | AI Project Management}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ [Moscow University of Industry and Finance "Synergy"](https://synergy.ru/).  
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{BACHELOR'S DEGREE 2025}$  
-$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Information Systems \\& Technologies | Web Development degree with honors}$  
-$\color{#00FF41}\text{∟}$ [Synergy University](https://synergy.ru/).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Information Systems \\& Technologies | Web Development degree with honors}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ [Synergy University](https://synergy.ru/).  
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROFESSIONAL TRAINING 2022}$  
-$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Junior Frontend Developer | Graduated with thesis defense}$  
-$\color{#00FF41}\text{∟}$ [Result School](https://result.school/).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Junior Frontend Developer | Graduated with thesis defense}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ [Result School](https://result.school/).  
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{ADVANCED COURSE 2021}$  
-$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{JavaScript/DOM/Interfaces | Graduated with Honors}$  
-$\color{#00FF41}\text{∟}$ [learn.javascript.ru](https://learn.javascript.ru/).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{JavaScript/DOM/Interfaces | Graduated with Honors}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ [learn.javascript.ru](https://learn.javascript.ru/).  
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$  
-$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Started with JavaScript}$  
-$\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{"Head First JavaScript Programming"}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Started with JavaScript}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{"Head First JavaScript Programming"}$  
 
 </div>
 
