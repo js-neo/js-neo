@@ -1,3 +1,14 @@
+<div align="center">
+
+![Matrix Boot Sequence](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIALIZING+MATRIX+ENVIRONMENT...;LOADING+SYSTEM+COMPONENTS...;WARNING%3A+BROWSER+CACHE+MAY+AFFECT+DISPLAY;SOLUTION%3A+FULL+PAGE+RELOAD+FOR+OPTIMAL+VIEW)
+
+<div style="margin-top: 10px; font-family: 'Fira Code', monospace; color: #00FF41;">
+
+```bash
+> For optimal visualization: refresh the page (F5) if green font color is not displayed.
+```
+</div></div>
+
 ```bash
 js-neo@matrix:~$ system_boot --verbose
 ```
