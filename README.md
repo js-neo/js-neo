@@ -2,9 +2,7 @@
 
 ![Matrix Boot Sequence](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIALIZING+MATRIX+ENVIRONMENT...;LOADING+SYSTEM+COMPONENTS...;WARNING%3A+BROWSER+CACHE+MAY+AFFECT+DISPLAY;SOLUTION%3A+FULL+PAGE+RELOAD+FOR+OPTIMAL+VIEW)
 
-<div style="background: #0a0a0a; border: 1px solid #00FF41; border-radius: 8px; padding: 20px; margin: 20px 0; font-family: 'Fira Code', monospace;">
-
-<div style="text-align: left; max-width: 600px; margin: 0 auto;">
+</div>
 
 ```bash
 js-neo@matrix:~$ system_boot --verbose
@@ -19,8 +17,6 @@ js-neo@matrix:~$ system_boot --verbose
 ```bash
 js-neo@matrix:~$ █
 ```
-
-</div></div></div>
 
 <div align="center">
 
