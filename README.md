@@ -2,19 +2,25 @@
 
 ![Matrix Boot Sequence](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIALIZING+MATRIX+ENVIRONMENT...;LOADING+SYSTEM+COMPONENTS...;WARNING%3A+BROWSER+CACHE+MAY+AFFECT+DISPLAY;SOLUTION%3A+FULL+PAGE+RELOAD+FOR+OPTIMAL+VIEW)
 
-<div style="margin-top: 10px; font-family: 'Fira Code', monospace; color: #00FF41;">
+<div style="background: #0a0a0a; border: 1px solid #00FF41; border-radius: 8px; padding: 20px; margin: 20px 0; font-family: 'Fira Code', monospace;">
 
-```bash
-> For optimal visualization: refresh the page (F5) if green font color is not displayed.
-```
-</div></div>
+<div style="text-align: left; max-width: 600px; margin: 0 auto;">
 
 ```bash
 js-neo@matrix:~$ system_boot --verbose
 ```
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> RENDERING MATRIX INTERFACE...}$  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> LOADING COLOR PROTOCOLS...}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> SYNCHRONIZING SYSTEMS...}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> SYNCHRONIZING SYSTEMS...}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#FF0000}\text{> SYSTEM NOTE: For optimal visualization: refresh the page (F5) if green font color is not displayed.}$
+
+
+```bash
+js-neo@matrix:~$ █
+```
+
+</div></div></div>
 
 <div align="center">
 
