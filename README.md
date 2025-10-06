@@ -90,7 +90,7 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{Currently pursuing a MASTER'S 
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{BACHELOR'S DEGREE 2025}$  
 
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp;$\color{#00FF41}\text{Information Systems \\& Technologies | Web Development degree with honors}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp;$\color{#00FF41}\text{Information Systems Technologies | Web Development degree with honors}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp;[Synergy University](https://synergy.ru/)  
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROFESSIONAL TRAINING 2022}$  
