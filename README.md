@@ -14,11 +14,12 @@ js-neo@matrix:~$ system_boot --verbose
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#FF0000}\text{> WARNING: GREEN FONT COLOR RENDERING MAY BE INCOMPLETE}$  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#FF0000}\text{> FIX: RELOAD PAGE (F5) TO RESTORE COLORS}$
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > $\color{#00FF41}\text{RENDERING&nbsp;MATRIX&nbsp;INTERFACE...}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > $\color{#00FF41}\text{LOADING&nbsp;COLOR&nbsp;PROTOCOLS...}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > $\color{#00FF41}\text{SYNCHRONIZING&nbsp;SYSTEMS...}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > $\color{#FF0000}\text{WARNING:&nbsp;GREEN&nbsp;FONT&nbsp;COLOR&nbsp;RENDERING&nbsp;MAY&nbsp;BE&nbsp;INCOMPLETE}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > $\color{#FF0000}\text{FIX:&nbsp;RELOAD&nbsp;PAGE&nbsp;(F5)&nbsp;TO&nbsp;RESTORE&nbsp;COLORS}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#00FF41">> RENDERING&nbsp;MATRIX&nbsp;INTERFACE...</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#00FF41">> LOADING&nbsp;COLOR&nbsp;PROTOCOLS...</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#00FF41">> SYNCHRONIZING&nbsp;SYSTEMS...</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000">> WARNING:&nbsp;GREEN&nbsp;FONT&nbsp;COLOR&nbsp;RENDERING&nbsp;MAY&nbsp;BE&nbsp;INCOMPLETE</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000">> FIX:&nbsp;RELOAD&nbsp;PAGE&nbsp;(F5)&nbsp;TO&nbsp;RESTORE&nbsp;COLORS</span>
+
 ```bash
 js-neo@matrix:~$ █
 ```
