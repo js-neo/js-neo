@@ -13,6 +13,12 @@ js-neo@matrix:~$ system_boot --verbose
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> SYNCHRONIZING SYSTEMS...}$  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#FF0000}\text{> WARNING: GREEN FONT COLOR RENDERING MAY BE INCOMPLETE}$  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#FF0000}\text{> FIX: RELOAD PAGE (F5) TO RESTORE COLORS}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{>}&nbsp;RENDERING&nbsp;MATRIX&nbsp;INTERFACE...}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{>}&nbsp;LOADING&nbsp;COLOR&nbsp;PROTOCOLS...}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{>}&nbsp;SYNCHRONIZING&nbsp;SYSTEMS...}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#FF0000}\text{>}&nbsp;WARNING:&nbsp;GREEN&nbsp;FONT&nbsp;COLOR&nbsp;RENDERING&nbsp;MAY&nbsp;BE&nbsp;INCOMPLETE}$  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#FF0000}\text{>}&nbsp;FIX:&nbsp;RELOAD&nbsp;PAGE&nbsp;(F5)&nbsp;TO&nbsp;RESTORE&nbsp;COLORS}$  
+
 ```bash
 js-neo@matrix:~$ █
 ```
