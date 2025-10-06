@@ -45,22 +45,22 @@ js-neo@matrix:~$ █
 ```bash
 js-neo@matrix:~$ whoami
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;$\color{#00FF41}\text{>&nbsp;JS-Neo | Full-Stack Developer | AI Architect | Matrix Builder}$
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{>&nbsp;JS-Neo | Full-Stack Developer | AI Architect | Matrix Builder}$
 ```bash
 js-neo@matrix:~$ system_diagnostic --full
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;$\color{#00FF41}\text{┌─&nbsp;SYSTEM STATUS: Loading skills matrix...}$  
-&nbsp;&nbsp;&nbsp;&nbsp;$\color{#00FF41}\text{├─&nbsp;Frontend modules: ONLINE}$  
-&nbsp;&nbsp;&nbsp;&nbsp;$\color{#00FF41}\text{├─&nbsp;Backend systems: OPERATIONAL}$  
-&nbsp;&nbsp;&nbsp;&nbsp;$\color{#00FF41}\text{├─&nbsp;AI Processors: ACTIVATED}$  
-&nbsp;&nbsp;&nbsp;&nbsp;$\color{#00FF41}\text{├─&nbsp;Management systems: SYNCED}$  
-&nbsp;&nbsp;&nbsp;&nbsp;$\color{#00FF41}\text{└─&nbsp;Status: Skills assessment complete. All systems nominal.}$
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{┌─&nbsp;SYSTEM STATUS: Loading skills matrix...}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─&nbsp;Frontend modules: ONLINE}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─&nbsp;Backend systems: OPERATIONAL}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─&nbsp;AI Processors: ACTIVATED}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─&nbsp;Management systems: SYNCED}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─&nbsp;Status: Skills assessment complete. All systems nominal.}$
 
 ```bash
 js-neo@matrix:~$ connect --professional
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;$\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com  
-&nbsp;&nbsp;&nbsp;&nbsp;$\color{#00FF41}\text{> Status:}$ $\color{#00FF41}\text{AVAILABLE FOR COLLABORATION}$
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Status:}$ $\color{#00FF41}\text{AVAILABLE FOR COLLABORATION}$
 
 ```bash
 js-neo@matrix:~$ █
@@ -193,11 +193,11 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 
 <div align="center">
 
-|                 **CHANNEL**                 |                  **STATUS**                  |                                        **ACCESS**                                        |
-|:-------------------------------------------:|:--------------------------------------------:|:----------------------------------------------------------------------------------------:|
-|  $\color{#00FF41}\text{🌐&nbsp;PORTFOLIO}$  | $\color{#00FF41}\text{ONLINE}$ |         <span style="color:#00FF41">[js-neo.com](https://www.js-neo.com)</span>          |
-|  $\color{#00FF41}\text{💼&nbsp;LINKEDIN}$   | $\color{#00FF41}\text{ACTIVE}$  | <span style="color:#00FF41">[JS-Neo](https://ru.linkedin.com/in/yuriy-vedernikov)</span> |
-|   $\color{#00FF41}\text{🐙&nbsp;GITHUB}$    | $\color{#00FF41}\text{SYNCING}$ |         <span style="color:#00FF41">[@js-neo](https://github.com/js-neo)</span>          |
+| **CHANNEL**                                 |                  **STATUS**                  |                                        **ACCESS**                                        |
+|:--------------------------------------------|:--------------------------------------------:|:----------------------------------------------------------------------------------------:|
+| $\color{#00FF41}\text{🌐&nbsp;PORTFOLIO}$   | $\color{#00FF41}\text{ONLINE}$ |         <span style="color:#00FF41">[js-neo.com](https://www.js-neo.com)</span>          |
+| $\color{#00FF41}\text{💼&nbsp;LINKEDIN}$    | $\color{#00FF41}\text{ACTIVE}$  | <span style="color:#00FF41">[JS-Neo](https://ru.linkedin.com/in/yuriy-vedernikov)</span> |
+| $\color{#00FF41}\text{🐙&nbsp;GITHUB}$      | $\color{#00FF41}\text{SYNCING}$ |         <span style="color:#00FF41">[@js-neo](https://github.com/js-neo)</span>          |
 | $\color{#00FF41}\text{📧&nbsp;MATRIX MAIL}$ |  $\color{#00FF41}\text{READY}$ |    <span style="color:#00FF41">[jsneoweb@gmail.com](mailto:jsneoweb@gmail.com)</span>    |
 
 </div>
