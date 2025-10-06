@@ -1,11 +1,16 @@
 <div align="center">
 
-![Matrix Boot Sequence](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIALIZING+MATRIX+ENVIRONMENT...;LOADING+SYSTEM+COMPONENTS...;WARNING%3A+BROWSER+CACHE+MAY+AFFECT+DISPLAY;SOLUTION%3A+FULL+PAGE+RELOAD+FOR+OPTIMAL+VIEW)
+![Matrix Boot Sequence](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIALIZING+MATRIX+ENVIRONMENT...;LOADING+SYSTEM+COMPONENTS...;WARNING%3A+LaTeX+RENDERING+MAY+FAIL+ON+NAVIGATION;SOLUTION%3A+RELOAD+PAGE+(F5)+FOR+OPTIMAL+VIEW)
 
 </div>
 
 ```bash
 js-neo@matrix:~$ system_boot --verbose
+> RENDERING MATRIX INTERFACE...
+> LOADING COLOR PROTOCOLS...
+> SYNCHRONIZING SYSTEMS...
+> WARNING: GREEN FONT COLOR RENDERING MAY BE INCOMPLETE
+> FIX: RELOAD PAGE (F5) TO RESTORE COLORS
 ```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> RENDERING MATRIX INTERFACE...}$  
