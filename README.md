@@ -6,29 +6,13 @@
 
 ```bash
 js-neo@matrix:~$ system_boot --verbose
-> RENDERING MATRIX INTERFACE...
-> LOADING COLOR PROTOCOLS...
-> SYNCHRONIZING SYSTEMS...
-> WARNING: GREEN FONT COLOR RENDERING MAY BE INCOMPLETE
-> FIX: RELOAD PAGE (F5) TO RESTORE COLORS
-```
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> RENDERING MATRIX INTERFACE...}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> LOADING COLOR PROTOCOLS...}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> SYNCHRONIZING SYSTEMS...}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#FF0000}\text{> WARNING: GREEN FONT COLOR RENDERING MAY BE INCOMPLETE}$  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#FF0000}\text{> FIX: RELOAD PAGE (F5) TO RESTORE COLORS}$
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#00FF41">> RENDERING&nbsp;MATRIX&nbsp;INTERFACE...</span>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#00FF41">> LOADING&nbsp;COLOR&nbsp;PROTOCOLS...</span>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#00FF41">> SYNCHRONIZING&nbsp;SYSTEMS...</span>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000">> WARNING:&nbsp;GREEN&nbsp;FONT&nbsp;COLOR&nbsp;RENDERING&nbsp;MAY&nbsp;BE&nbsp;INCOMPLETE</span>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000">> FIX:&nbsp;RELOAD&nbsp;PAGE&nbsp;(F5)&nbsp;TO&nbsp;RESTORE&nbsp;COLORS</span>
-
-```bash
+    > rendering matrix interface...
+    > loading color protocols... 
+    > synchronizing systems...
+    > WARNING: green font color rendering may be incomplete
+    > FIX: reload page (F5) to restore colors
 js-neo@matrix:~$ █
 ```
-
 <div align="center">
 
 ![Matrix Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=WAKE+UP+DEVELOPER...;THE+MATRIX+HAS+YOU.;JS-NEO+SYSTEMS+ONLINE)
