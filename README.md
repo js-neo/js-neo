@@ -108,7 +108,7 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 
 ## <span style="color:#00FF41">Δ</span> **ACTIVE MISSIONS**
 
-### $\color{#9D00FF}\text{λ WORKTIME AI}$ $\color{#9D00FF}\text{**AI-PROCESSING ONLINE**}$
+### $\color{#00FF41}\text{λ}$ $\color{#9D00FF}\text{WORKTIME AI}$ **$\color{#9D00FF}\text{AI-PROCESSING ONLINE}$**
 
 
 $\color{#00FF41}\text{λ}$ $\color{#00FF41}\text{WORKTIME AI}$ $\color{#00FF41}\text{AI-PROCESSING ONLINE}$  
