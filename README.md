@@ -128,6 +128,16 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Processing:}$ $\color{#00F0FF}\text{Real-time progress}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Error handling}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Performance optimization}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Chunk processing}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Live Demo](https://js-neo.github.io/excel-web-processor/)
 
+### $\color{#9D00FF}\text{λ}$ $\color{#9D00FF}\text{GT REPORT PARSER}$ $\color{#9D00FF}\textit{NEXT-GEN ANALYTICS}$
+
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Advanced Excel report processing and analytics platform}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Frontend:}$ $\color{#00FF41}\text{Next.js 15}$ $\color{#00FF41}\text{React 19}$ $\color{#00FF41}\text{TypeScript}$ $\color{#00FF41}\text{TailwindCSS 4}$ $\color{#00FF41}\text{Framer Motion}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Core Libraries:}$ $\color{#00FF41}\text{ExcelJS}$ $\color{#00FF41}\text{React DnD}$ $\color{#00FF41}\text{Papa Parse}$ $\color{#00FF41}\text{JSZip}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Features:}$ $\color{#00F0FF}\text{Multi-file processing}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Drag & drop interface}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Real-time preview}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Advanced filtering}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Excel export}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Data Processing:}$ $\color{#00F0FF}\text{CSV/Excel parsing}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Commission calculation}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{City-based routing}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Data validation}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Live Application](https://your-deployment-link)
+
+
 ### **<span style="color:#00FF41">∃ MATRIX DASHBOARD</span>** <span style="color:#00FF41">`BETA SYSTEMS ACTIVE`</span>
 
 > <span style="color:#00FF41">*Интерактивная аналитическая панель с 3D визуализациями*</span>
