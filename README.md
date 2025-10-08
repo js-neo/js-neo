@@ -109,14 +109,14 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 ## <span style="color:#00FF41">Δ</span> **ACTIVE MISSIONS**
 
 ### $\color{#9D00FF}\text{λ}$ $\color{#9D00FF}\text{WORKTIME AI}$ $\color{#9D00FF}\textit{AI-PROCESSING ONLINE}$
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Децентрализованная система учёта рабочего времени с AI-анализом}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Decentralized work time tracking system with AI analysis}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Frontend:}$ $\color{#00FF41}\text{Next.js 15}$ $\color{#00FF41}\text{React 19}$ $\color{#00FF41}\text{ExcelJS}$ $\color{#00FF41}\text{Zustand}$ $\color{#00FF41}\text{TailwindCSS}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Backend:}$ $\color{#00FF41}\text{Express.js}$ $\color{#00FF41}\text{Mongoose}$ $\color{#00FF41}\text{JWT}$ $\color{#00FF41}\text{bcryptjs}$ $\color{#00FF41}\text{Axios}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{AI Bot:}$ $\color{#00FF41}\text{Python-Telegram-Bot}$ $\color{#00FF41}\text{OpenAI}$ $\color{#00FF41}\text{Whisper}$ $\color{#00FF41}\text{MoviePy}$ $\color{#00FF41}\text{Google APIs}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Storage:}$ $\color{#00FF41}\text{MongoDB}$ $\color{#00FF41}\text{Google Drive API}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Metrics:}$ $\color{#00F0FF}\text{80\\%}$ $\color{#00F0FF}\text{экономия времени}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{0\\%}$ $\color{#00F0FF}\text{ошибок}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{30\\%}$ $\color{#00F0FF}\text{рост продуктивности}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Features:}$ Распознавание речи $\color{#00FF41}\text{•}$ Обработка видео/фото $\color{#00FF41}\text{•}$ Автоматические Excel отчеты $\color{#00FF41}\text{•}$ Telegram бот $\color{#00FF41}\text{•}$ JWT аутентификация  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Demo](https://js-neo.github.io/chrono-control-saas-page/)
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Metrics:}$ $\color{#00F0FF}\text{80\\%}$ $\color{#00F0FF}\text{time savings}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{0\\%}$ $\color{#00F0FF}\text{errors}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{30\\%}$ $\color{#00F0FF}\text{productivity growth}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Features:}$ $\color{#00F0FF}\text{Speech recognition}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Video/photo processing}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Automatic Excel reports}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Telegram bot}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{JWT authentication}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Demo](https://js-neo.github.io/chrono-control-saas-page/)  
 
 ### **<span style="color:#00FF41">∃ MATRIX DASHBOARD</span>** <span style="color:#00FF41">`BETA SYSTEMS ACTIVE`</span>
 
