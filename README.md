@@ -108,7 +108,8 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 
 ## <span style="color:#00FF41">Δ</span> **ACTIVE MISSIONS**
 
-### **<span style="color:#00FF41">λ WORKTIME AI</span>** <span style="color:#00FF41">`AI-PROCESSING ONLINE`</span>
+### **<span style="color:#00FF41">λ WORKTIME AI</span>** 
+$\color{#9D00FF}\text{AI-PROCESSING ONLINE}$
 
 $\color{#00FF41}\text{λ}$ $\color{#00FF41}\text{WORKTIME AI}$ $\color{#00FF41}\text{AI-PROCESSING ONLINE}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Децентрализованная система учёта рабочего времени с AI-анализом}$
