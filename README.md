@@ -108,12 +108,9 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 
 ## <span style="color:#00FF41">Δ</span> **ACTIVE MISSIONS**
 
-### $\color{#9D00FF}\text{λ}$ $\color{#9D00FF}\text{WORKTIME AI}$ $\color{#9D00FF}\text{AI-PROCESSING ONLINE}$
+### $\color{#9D00FF}\text{λ}$ $\color{#9D00FF}\text{WORKTIME AI}$ $\color{#9D00FF}\textit{AI-PROCESSING ONLINE}$
 
-
-$\color{#00FF41}\text{λ}$ $\color{#00FF41}\text{WORKTIME AI}$ $\color{#00FF41}\text{*AI-PROCESSING ONLINE*}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Децентрализованная система учёта рабочего времени с AI-анализом}$
-
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Frontend:}$ $\color{#00FF41}\text{Next.js 15}$ $\color{#00FF41}\text{React 19}$ $\color{#00FF41}\text{ExcelJS}$ $\color{#00FF41}\text{Zustand}$ $\color{#00FF41}\text{TailwindCSS}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Backend:}$ $\color{#00FF41}\text{Express.js}$ $\color{#00FF41}\text{Mongoose}$ $\color{#00FF41}\text{JWT}$ $\color{#00FF41}\text{bcryptjs}$ $\color{#00FF41}\text{Axios}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{AI Bot:}$ $\color{#00FF41}\text{Python-Telegram-Bot}$ $\color{#00FF41}\text{OpenAI}$ $\color{#00FF41}\text{Whisper}$ $\color{#00FF41}\text{MoviePy}$ $\color{#00FF41}\text{Google APIs}$  
