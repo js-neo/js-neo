@@ -126,51 +126,16 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Core Library:}$ $\color{#00FF41}\text{ExcelJS}$ $\color{#00FF41}\text{File Handling}$ $\color{#00FF41}\text{Blob Processing}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Features:}$ $\color{#00F0FF}\text{Excel file merging}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Formula automation}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Cell styling}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Conditional formatting}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Data validation}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Processing:}$ $\color{#00F0FF}\text{Real-time progress}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Error handling}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Performance optimization}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Chunk processing}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Live Demo](https://js-neo.github.io/excel-web-processor/)
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Live Application](https://js-neo.github.io/excel-web-processor/)
 
 ### $\color{#9D00FF}\text{λ}$ $\color{#9D00FF}\text{GT REPORT PARSER}$ $\color{#9D00FF}\textit{NEXT-GEN ANALYTICS}$
 
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Advanced Excel report processing and analytics platform}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Frontend:}$ $\color{#00FF41}\text{Next.js 15}$ $\color{#00FF41}\text{React 19}$ $\color{#00FF41}\text{TypeScript}$ $\color{#00FF41}\text{TailwindCSS 4}$ $\color{#00FF41}\text{Framer Motion}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Core Libraries:}$ $\color{#00FF41}\text{ExcelJS}$ $\color{#00FF41}\text{React DnD}$ $\color{#00FF41}\text{Papa Parse}$ $\color{#00FF41}\text{JSZip}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Features:}$ $\color{#00F0FF}\text{Multi-file processing}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Drag & drop interface}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Real-time preview}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Advanced filtering}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Excel export}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Features:}$ $\color{#00F0FF}\text{Multi-file processing}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Drag \\& drop interface}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Real-time preview}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Advanced filtering}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Excel export}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Data Processing:}$ $\color{#00F0FF}\text{CSV/Excel parsing}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Commission calculation}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{City-based routing}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Data validation}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Live Application](https://your-deployment-link)
-
-
-### **<span style="color:#00FF41">∃ MATRIX DASHBOARD</span>** <span style="color:#00FF41">`BETA SYSTEMS ACTIVE`</span>
-
-> <span style="color:#00FF41">*Интерактивная аналитическая панель с 3D визуализациями*</span>
-
-- <span style="color:#00FF41">**Stack:**</span> <span style="color:#00FF41">
-  `Three.js`</span> <span style="color:#00FF41">`React`</span> <span style="color:#00FF41">
-  `WebSocket`</span> <span style="color:#00FF41">`D3.js`</span> <span style="color:#00FF41">`TensorFlow.js`</span>
-- <span style="color:#00FF41">**Metrics:**</span> <span style="color:#00FF41">`60 FPS`</span>
-  производительность • <span style="color:#00FF41">`Real-time`</span> поток данных • <span style="color:#00FF41">
-  `3D`</span> визуализация • <span style="color:#00FF41">`AI`</span> прогноз
-- <span style="color:#00FF41">**Features:**</span> Интерактивная 3D визуализация • Обновления в реальном времени •
-  Нейросетевые предсказания
-
-### **<span style="color:#00FF41">Σ BOOKSTORE APP</span>** <span style="color:#00FF41">`OPERATIONAL`</span>
-
-> <span style="color:#00FF41">*Полнофункциональный онлайн-магазин книг*</span>
-
-- <span style="color:#00FF41">**Stack:**</span> <span style="color:#00FF41">`React`</span> <span style="color:#00FF41">
-  `Redux Toolkit`</span> <span style="color:#00FF41">`React Router`</span> <span style="color:#00FF41">
-  `Bootstrap`</span>
-- <span style="color:#00FF41">**Features:**</span> Каталог книг • Поиск • Корзина покупок • Управление состоянием
-- <span style="color:#00FF41">**Links:
-  **</span> <span style="color:#00FF41">[Live Demo](https://js-neo.github.io/bookstore-app/)</span> • <span style="color:#00FF41">[Source Code](https://github.com/js-neo/bookstore-app)</span>
-
-### **<span style="color:#00FF41">∞ DEVELOPERS TEAM</span>** <span style="color:#00FF41">`ONLINE`</span>
-
-> <span style="color:#00FF41">*Платформа для управления командой разработчиков*</span>
-
-- <span style="color:#00FF41">**Stack:**</span> <span style="color:#00FF41">`HTML5`</span> <span style="color:#00FF41">
-  `CSS3`</span> <span style="color:#00FF41">`Vanilla JavaScript`</span> <span style="color:#00FF41">`Webpack`</span>
-- <span style="color:#00FF41">**Features:**</span> Динамические профили • Модальные окна • Адаптивный дизайн
-- <span style="color:#00FF41">**Links:
-  **</span> <span style="color:#00FF41">[Live Demo](https://js-neo.github.io/developers-team/)</span> • <span style="color:#00FF41">[Source Code](https://github.com/js-neo/developers-team)</span>
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Live Application](https://gt-report-parser.vercel.app/)  
 
 <div align="center">
 
