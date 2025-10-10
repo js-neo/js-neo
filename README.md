@@ -203,21 +203,20 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Excel automation \\& business intelligence}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ Real-time data visualization systems}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ STATUS: ALL LEARNING STREAMS ACTIVE}$
+
 ## <span style="color:#00FF41">⊗</span> **PROBLEM-SOLVING FOCUS**
 
-```bash
-█  AI-POWERED AUTOMATION
-   ∟ Transforming business processes with artificial intelligence
-   ∟ Data processing and analysis automation
-
-█  PERFORMANCE OPTIMIZATION
-   ∟ High-performance web applications
-   ∟ Real-time data visualization
-
-█  USER EXPERIENCE
-   ∟ Intuitive and responsive interfaces
-   ∟ Cross-platform compatibility
-```
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{┌─ CORE COMPETENCIES}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─}$ █ $\color{#00F0FF}\text{AI-POWERED AUTOMATION}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Transforming business processes with artificial intelligence}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ Data processing and analysis automation}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─}$ █ $\color{#00F0FF}\text{PERFORMANCE OPTIMIZATION}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ High-performance web applications}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ Real-time data visualization}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─}$ █ $\color{#00F0FF}\text{USER EXPERIENCE}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Intuitive and responsive interfaces}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ Cross-platform compatibility}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ STATUS: ALL SYSTEMS OPERATIONAL}$
 
 
 
