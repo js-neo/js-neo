@@ -190,16 +190,16 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 ## <span style="color:#00FF41">∂</span> **CURRENTLY PROCESSING**
 
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{┌─ ACTIVE LEARNING STREAMS}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ █ AI \\& MACHINE LEARNING}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─}$ █ $\color{#00FF41}\text{AI \\& MACHINE LEARNING}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;├─ Master's program in AI Project Management}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;└─ Neural networks and predictive analytics}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ █ ADVANCED REACT PATTERNS}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─}$ █ $\color{#00FF41}\text{ADVANCED REACT PATTERNS}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;├─ Performance optimization techniques}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;└─ State management best practices}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ █ PROJECT MANAGEMENT}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─}$ █ $\color{#00FF41}\text{PROJECT MANAGEMENT}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;├─ Agile methodologies \\& team leadership}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;└─ CI/CD pipelines \\& DevOps strategies}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ █ DATA PROCESSING}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─}$ █ $\color{#00FF41}\text{DATA PROCESSING}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;├─ Excel automation \\& business intelligence}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;└─ Real-time data visualization systems}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ STATUS: ALL LEARNING STREAMS ACTIVE}$
