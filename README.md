@@ -191,17 +191,17 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{┌─ ACTIVE LEARNING STREAMS}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─}$ █ $\color{#00FF41}\text{AI \\& MACHINE LEARNING}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;&nbsp;&nbsp;├─ Master's program in AI Project Management}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;&nbsp;&nbsp;└─ Neural networks and predictive analytics}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Master's program in AI Project Management}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ Neural networks and predictive analytics}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─}$ █ $\color{#00FF41}\text{ADVANCED REACT PATTERNS}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;&nbsp;&nbsp;├─ Performance optimization techniques}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;&nbsp;&nbsp;└─ State management best practices}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Performance optimization techniques}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ State management best practices}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─}$ █ $\color{#00FF41}\text{PROJECT MANAGEMENT}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;&nbsp;&nbsp;├─ Agile methodologies \\& team leadership}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;&nbsp;&nbsp;└─ CI/CD pipelines \\& DevOps strategies}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Agile methodologies \\& team leadership}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ CI/CD pipelines \\& DevOps strategies}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─}$ █ $\color{#00FF41}\text{DATA PROCESSING}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;&nbsp;&nbsp;├─ Excel automation \\& business intelligence}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;&nbsp;&nbsp;└─ Real-time data visualization systems}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ Excel automation \\& business intelligence}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│}$ &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ Real-time data visualization systems}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ STATUS: ALL LEARNING STREAMS ACTIVE}$
 ## <span style="color:#00FF41">⊗</span> **PROBLEM-SOLVING FOCUS**
 
