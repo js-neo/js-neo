@@ -189,45 +189,20 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 
 ## <span style="color:#00FF41">∂</span> **CURRENTLY PROCESSING**
 
-```pre
-█  AI & MACHINE LEARNING
-   ∟ Master's program in AI Project Management
-   ∟ Neural networks and predictive analytics
-
-█  ADVANCED REACT PATTERNS
-   ∟ Performance optimization techniques
-   ∟ State management best practices
-
-█  PROJECT MANAGEMENT
-   ∟ Agile methodologies & team leadership
-   ∟ CI/CD pipelines & DevOps strategies
-
-█  DATA PROCESSING
-   ∟ Excel automation & business intelligence
-   ∟ Real-time data visualization systems
-```
-
-## $\color{#00FF41}\text{∂}$ $\color{#00FF41}\text{CURRENTLY PROCESSING}$
-
-```bash
-┌─ ACTIVE LEARNING STREAMS ──────────────────
-│ █ AI & MACHINE LEARNING
-│   ├─ Master`s program in AI Project Management
-│   └─ Neural networks and predictive analytics
-│
-│ █ ADVANCED REACT PATTERNS  
-│   ├─ Performance optimization techniques
-│   └─ State management best practices
-│
-│ █ PROJECT MANAGEMENT
-│   ├─ Agile methodologies & team leadership
-│   └─ CI/CD pipelines & DevOps strategies
-│
-│ █ DATA PROCESSING
-│   ├─ Excel automation & business intelligence
-│   └─ Real-time data visualization systems
-└────────────────────────────────────────────
-
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{┌─ ACTIVE LEARNING STREAMS}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ █ AI \\& MACHINE LEARNING}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;├─ Master's program in AI Project Management}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;└─ Neural networks and predictive analytics}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ █ ADVANCED REACT PATTERNS}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;├─ Performance optimization techniques}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;└─ State management best practices}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ █ PROJECT MANAGEMENT}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;├─ Agile methodologies \\& team leadership}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;└─ CI/CD pipelines \\& DevOps strategies}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{├─ █ DATA PROCESSING}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;├─ Excel automation \\& business intelligence}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{│&nbsp;&nbsp;└─ Real-time data visualization systems}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{└─ STATUS: ALL LEARNING STREAMS ACTIVE}$
 ## <span style="color:#00FF41">⊗</span> **PROBLEM-SOLVING FOCUS**
 
 ```bash
