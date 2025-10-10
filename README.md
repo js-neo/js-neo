@@ -189,7 +189,7 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 
 ## <span style="color:#00FF41">∂</span> **CURRENTLY PROCESSING**
 
-```bash
+```pre
 █  AI & MACHINE LEARNING
    ∟ Master's program in AI Project Management
    ∟ Neural networks and predictive analytics
@@ -206,6 +206,27 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
    ∟ Excel automation & business intelligence
    ∟ Real-time data visualization systems
 ```
+
+## $\color{#00FF41}\text{∂}$ $\color{#00FF41}\text{CURRENTLY PROCESSING}$
+
+```bash
+┌─ ACTIVE LEARNING STREAMS ──────────────────
+│ █ AI & MACHINE LEARNING
+│   ├─ Master`s program in AI Project Management
+│   └─ Neural networks and predictive analytics
+│
+│ █ ADVANCED REACT PATTERNS  
+│   ├─ Performance optimization techniques
+│   └─ State management best practices
+│
+│ █ PROJECT MANAGEMENT
+│   ├─ Agile methodologies & team leadership
+│   └─ CI/CD pipelines & DevOps strategies
+│
+│ █ DATA PROCESSING
+│   ├─ Excel automation & business intelligence
+│   └─ Real-time data visualization systems
+└────────────────────────────────────────────
 
 ## <span style="color:#00FF41">⊗</span> **PROBLEM-SOLVING FOCUS**
 
