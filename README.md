@@ -118,18 +118,7 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Features:}$ $\color{#00F0FF}\text{Speech recognition}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Video/photo processing}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Automatic Excel reports}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Telegram bot}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{JWT authentication}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Demo](https://js-neo.github.io/chrono-control-saas-page/)  
 
-
-### $\color{#9D00FF}\text{λ}$ $\color{#9D00FF}\text{WORKTIME AI}$ $\color{#9D00FF}\textit{AI-PROCESSING ONLINE}$
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Decentralized work time tracking system with AI analysis}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Frontend:}$ $\color{#00FF41}\text{TypeScript}$ $\color{#00FF41}\text{Next.js 15}$ $\color{#00FF41}\text{React 19}$ $\color{#00FF41}\text{ExcelJS}$ $\color{#00FF41}\text{Zustand}$ $\color{#00FF41}\text{TailwindCSS}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Backend:}$ $\color{#00FF41}\text{TypeScript}$ $\color{#00FF41}\text{Express.js}$ $\color{#00FF41}\text{Mongoose}$ $\color{#00FF41}\text{JWT}$ $\color{#00FF41}\text{bcryptjs}$ $\color{#00FF41}\text{Axios}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{AI Bot:}$ $\color{#00FF41}\text{Python-Telegram-Bot}$ $\color{#00FF41}\text{OpenAI}$ $\color{#00FF41}\text{Whisper}$ $\color{#00FF41}\text{MoviePy}$ $\color{#00FF41}\text{Google APIs}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Storage:}$ $\color{#00FF41}\text{MongoDB}$ $\color{#00FF41}\text{Google Drive API}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Metrics:}$ $\color{#00F0FF}\text{80\\%}$ $\color{#00F0FF}\text{time savings}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{0\\%}$ $\color{#00F0FF}\text{errors}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{30\\%}$ $\color{#00F0FF}\text{productivity growth}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Features:}$ $\color{#00F0FF}\text{Speech recognition}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Video/photo processing}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Automatic Excel reports}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Telegram bot}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{JWT authentication}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Demo](https://js-neo.github.io/chrono-control-saas-page/)
-
-### $\color{#9D00FF}\text{λ}$ $\color{#9D00FF}\text{EXCEL PROCESSOR}$ $\color{#9D00FF}\textit{WEB AUTOMATION}$
+### $\color{#9D00FF}\text{Σ}$ $\color{#9D00FF}\text{EXCEL PROCESSOR}$ $\color{#9D00FF}\textit{WEB AUTOMATION}$
 
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Web-based Excel file processing and automation system}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Frontend:}$ $\color{#00FF41}\text{HTML5}$ $\color{#00FF41}\text{CSS3}$ $\color{#00FF41}\text{JavaScript ES6+}$ $\color{#00FF41}\text{Webpack}$ $\color{#00FF41}\text{Babel}$  
@@ -138,7 +127,7 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Processing:}$ $\color{#00F0FF}\text{Real-time progress}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Error handling}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Performance optimization}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Chunk processing}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Live Application](https://js-neo.github.io/excel-web-processor/)
 
-### $\color{#9D00FF}\text{λ}$ $\color{#9D00FF}\text{GT REPORT PARSER}$ $\color{#9D00FF}\textit{NEXT-GEN ANALYTICS}$
+### $\color{#9D00FF}\text{Ω}$ $\color{#9D00FF}\text{GT REPORT PARSER}$ $\color{#9D00FF}\textit{NEXT-GEN ANALYTICS}$
 
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Advanced Excel report processing and analytics platform}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Frontend:}$ $\color{#00FF41}\text{Next.js 15}$ $\color{#00FF41}\text{React 19}$ $\color{#00FF41}\text{TypeScript}$ $\color{#00FF41}\text{TailwindCSS 4}$ $\color{#00FF41}\text{Framer Motion}$  
@@ -156,6 +145,20 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Animations:}$ $\color{#00FF41}\text{Glitch Effects}$ $\color{#00FF41}\text{Terminal Typing}$ $\color{#00FF41}\text{Matrix Rain}$ $\color{#00FF41}\text{Holographic UI}$ $\color{#00FF41}\text{Page Transitions}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Metrics:}$ $\color{#00F0FF}\text{60 FPS}$ $\color{#00F0FF}\text{3D performance}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{100\\%}$ $\color{#00F0FF}\text{responsive}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Real-time}$ $\color{#00F0FF}\text{interactions}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Features:}$ $\color{#00F0FF}\text{Interactive CodeSphere}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Matrix Terminal}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Glitch Text Effects}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Sound System}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Contact API}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Live Demo](https://js-neo.com) • [GitHub](https://github.com/js-neo/js-neo-matrix)
+
+
+### $\color{#9D00FF}\text{Φ}$ $\color{#9D00FF}\text{JS-NEO MATRIX PORTFOLIO}$ $\color{#9D00FF}\textit{SYSTEMS ONLINE}$
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Immersive Matrix-themed developer portfolio with interactive 3D elements}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Core Stack:}$ $\color{#00FF41}\text{TypeScript}$ $\color{#00FF41}\text{Next.js 15}$ $\color{#00FF41}\text{React 19}$ $\color{#00FF41}\text{TailwindCSS}$ $\color{#00FF41}\text{Framer Motion}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{3D Graphics:}$ $\color{#00FF41}\text{Three.js}$ $\color{#00FF41}\text{React Three Fiber}$ $\color{#00FF41}\text{React Three Drei}$ $\color{#00FF41}\text{OrbitControls}$ $\color{#00FF41}\text{CodeSphere}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Animations:}$ $\color{#00FF41}\text{Glitch Text Effects}$ $\color{#00FF41}\text{Matrix Typing}$ $\color{#00FF41}\text{Terminal Simulation}$ $\color{#00FF41}\text{Hover Glitch}$ $\color{#00FF41}\text{Page Transitions}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Audio System:}$ $\color{#00FF41}\text{Howler.js}$ $\color{#00FF41}\text{Custom Sound Manager}$ $\color{#00FF41}\text{Matrix Ambience}$ $\color{#00FF41}\text{Keyboard SFX}$ $\color{#00FF41}\text{Glitch Sounds}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{UI Components:}$ $\color{#00FF41}\text{Matrix Rain}$ $\color{#00FF41}\text{Hologram Cards}$ $\color{#00FF41}\text{Pill Buttons}$ $\color{#00FF41}\text{Terminal Cursor}$ $\color{#00FF41}\text{Responsive Nav}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{State Management:}$ $\color{#00FF41}\text{React Context}$ $\color{#00FF41}\text{Animation Context}$ $\color{#00FF41}\text{Initialization Context}$ $\color{#00FF41}\text{Custom Hooks}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Backend:}$ $\color{#00FF41}\text{Next.js API}$ $\color{#00FF41}\text{Nodemailer}$ $\color{#00FF41}\text{Formik + Yup}$ $\color{#00FF41}\text{Contact Form}$ $\color{#00FF41}\text{Email Templates}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Metrics:}$ $\color{#00F0FF}\text{60 FPS}$ $\color{#00F0FF}\text{3D performance}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{100\\%}$ $\color{#00F0FF}\text{responsive}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Real-time}$ $\color{#00F0FF}\text{animations}$  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Features:}$ $\color{#00F0FF}\text{Interactive CodeSphere}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Matrix Terminal}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Sound System}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Contact API}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Easter Eggs}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Live Demo](https://js-neo.com) • [GitHub](https://github.com/js-neo/js-neo-matrix)
 
 <div align="center">
