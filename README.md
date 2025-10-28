@@ -4,6 +4,12 @@
 
 </div>
 
+<div align="center">
+
+![Matrix Rain](./assets/matrix-rain.svg)
+
+</div>
+
 ```bash
 js-neo@matrix:~$ system_boot --verbose
     > rendering matrix interface...

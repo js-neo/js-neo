@@ -1,0 +1,256 @@
+<!--assets/matrix-rain.svg-->
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#0a0a0a;display:block" width="1084" height="322" preserveAspectRatio="xMidYMid" viewBox="0 0 1084 322">
+    <defs>
+        <pattern id="js-neo-matrix-pattern" x="0" y="0" width="174" height="400" patternUnits="userSpaceOnUse">
+            <g transform="scale(0.9)">
+                <g style="font-family:'Fira Code', monospace;font-size:20;font-weight:bold">
+                    <!-- 8 колонок × 25 строк = 200 символов -->
+                    <!-- Каждая колонка имеет свою случайную задержку и скорость -->
+                    <!-- Столбец 1 - быстрая колонка -->
+                    <g transform="translate(0 16)"><text fill="#00ff41" style="animation-delay:-1.2s">ア</text></g>
+                    <g transform="translate(0 32)"><text fill="#00ff41" style="animation-delay:-1.1s">A</text></g>
+                    <g transform="translate(0 48)"><text fill="#00ff41" style="animation-delay:-1.0s">1</text></g>
+                    <g transform="translate(0 64)"><text fill="#00ff41" style="animation-delay:-0.9s">カ</text></g>
+                    <g transform="translate(0 80)"><text fill="#00ff41" style="animation-delay:-0.8s">B</text></g>
+                    <g transform="translate(0 96)"><text fill="#00ff41" style="animation-delay:-0.7s">2</text></g>
+                    <g transform="translate(0 112)"><text fill="#00ff41" style="animation-delay:-0.6s">サ</text></g>
+                    <g transform="translate(0 128)"><text fill="#00ff41" style="animation-delay:-0.5s">C</text></g>
+                    <g transform="translate(0 144)"><text fill="#00ff41" style="animation-delay:-0.4s">3</text></g>
+                    <g transform="translate(0 160)"><text fill="#00ff41" style="animation-delay:-0.3s">タ</text></g>
+                    <g transform="translate(0 176)"><text fill="#00ff41" style="animation-delay:-0.2s">D</text></g>
+                    <g transform="translate(0 192)"><text fill="#00ff41" style="animation-delay:-0.1s">4</text></g>
+                    <g transform="translate(0 208)"><text fill="#00ff41" style="animation-delay:0.0s">ナ</text></g>
+                    <g transform="translate(0 224)"><text fill="#00ff41" style="animation-delay:0.1s">E</text></g>
+                    <g transform="translate(0 240)"><text fill="#00ff41" style="animation-delay:0.2s">5</text></g>
+                    <g transform="translate(0 256)"><text fill="#00ff41" style="animation-delay:0.3s">ハ</text></g>
+                    <g transform="translate(0 272)"><text fill="#00ff41" style="animation-delay:0.4s">F</text></g>
+                    <g transform="translate(0 288)"><text fill="#00ff41" style="animation-delay:0.5s">6</text></g>
+                    <g transform="translate(0 304)"><text fill="#00ff41" style="animation-delay:0.6s">マ</text></g>
+                    <g transform="translate(0 320)"><text fill="#00ff41" style="animation-delay:0.7s">G</text></g>
+                    <g transform="translate(0 336)"><text fill="#00ff41" style="animation-delay:0.8s">7</text></g>
+                    <g transform="translate(0 352)"><text fill="#00ff41" style="animation-delay:0.9s">ヤ</text></g>
+                    <g transform="translate(0 368)"><text fill="#00ff41" style="animation-delay:1.0s">H</text></g>
+                    <g transform="translate(0 384)"><text fill="#00ff41" style="animation-delay:1.1s">8</text></g>
+                    <g transform="translate(0 400)"><text fill="#00ff41" style="animation-delay:1.2s">ラ</text></g>
+                    <!-- Столбец 2 - медленная колонка -->
+                    <g transform="translate(24 16)"><text fill="#00ff41" style="animation-delay:-0.8s">I</text></g>
+                    <g transform="translate(24 32)"><text fill="#00ff41" style="animation-delay:-0.7s">9</text></g>
+                    <g transform="translate(24 48)"><text fill="#00ff41" style="animation-delay:-0.6s">ワ</text></g>
+                    <g transform="translate(24 64)"><text fill="#00ff41" style="animation-delay:-0.5s">J</text></g>
+                    <g transform="translate(24 80)"><text fill="#00ff41" style="animation-delay:-0.4s">0</text></g>
+                    <g transform="translate(24 96)"><text fill="#00ff41" style="animation-delay:-0.3s">K</text></g>
+                    <g transform="translate(24 112)"><text fill="#00ff41" style="animation-delay:-0.2s">ガ</text></g>
+                    <g transform="translate(24 128)"><text fill="#00ff41" style="animation-delay:-0.1s">L</text></g>
+                    <g transform="translate(24 144)"><text fill="#00ff41" style="animation-delay:0.0s">ザ</text></g>
+                    <g transform="translate(24 160)"><text fill="#00ff41" style="animation-delay:0.1s">M</text></g>
+                    <g transform="translate(24 176)"><text fill="#00ff41" style="animation-delay:0.2s">ダ</text></g>
+                    <g transform="translate(24 192)"><text fill="#00ff41" style="animation-delay:0.3s">N</text></g>
+                    <g transform="translate(24 208)"><text fill="#00ff41" style="animation-delay:0.4s">バ</text></g>
+                    <g transform="translate(24 224)"><text fill="#00ff41" style="animation-delay:0.5s">O</text></g>
+                    <g transform="translate(24 240)"><text fill="#00ff41" style="animation-delay:0.6s">パ</text></g>
+                    <g transform="translate(24 256)"><text fill="#00ff41" style="animation-delay:0.7s">P</text></g>
+                    <g transform="translate(24 272)"><text fill="#00ff41" style="animation-delay:0.8s">Q</text></g>
+                    <g transform="translate(24 288)"><text fill="#00ff41" style="animation-delay:0.9s">R</text></g>
+                    <g transform="translate(24 304)"><text fill="#00ff41" style="animation-delay:1.0s">S</text></g>
+                    <g transform="translate(24 320)"><text fill="#00ff41" style="animation-delay:1.1s">T</text></g>
+                    <g transform="translate(24 336)"><text fill="#00ff41" style="animation-delay:1.2s">U</text></g>
+                    <g transform="translate(24 352)"><text fill="#00ff41" style="animation-delay:1.3s">V</text></g>
+                    <g transform="translate(24 368)"><text fill="#00ff41" style="animation-delay:1.4s">W</text></g>
+                    <g transform="translate(24 384)"><text fill="#00ff41" style="animation-delay:1.5s">X</text></g>
+                    <g transform="translate(24 400)"><text fill="#00ff41" style="animation-delay:1.6s">Y</text></g>
+                    <!-- Столбец 3 - средняя скорость -->
+                    <g transform="translate(48 16)"><text fill="#00ff41" style="animation-delay:-1.5s">Z</text></g>
+                    <g transform="translate(48 32)"><text fill="#00ff41" style="animation-delay:-1.4s">!</text></g>
+                    <g transform="translate(48 48)"><text fill="#00ff41" style="animation-delay:-1.3s">@</text></g>
+                    <g transform="translate(48 64)"><text fill="#00ff41" style="animation-delay:-1.2s">#</text></g>
+                    <g transform="translate(48 80)"><text fill="#00ff41" style="animation-delay:-1.1s">$</text></g>
+                    <g transform="translate(48 96)"><text fill="#00ff41" style="animation-delay:-1.0s">%</text></g>
+                    <g transform="translate(48 112)"><text fill="#00ff41" style="animation-delay:-0.9s">&amp;</text></g>
+                    <g transform="translate(48 128)"><text fill="#00ff41" style="animation-delay:-0.8s">*</text></g>
+                    <g transform="translate(48 144)"><text fill="#00ff41" style="animation-delay:-0.7s">(</text></g>
+                    <g transform="translate(48 160)"><text fill="#00ff41" style="animation-delay:-0.6s">)</text></g>
+                    <g transform="translate(48 176)"><text fill="#00ff41" style="animation-delay:-0.5s">_</text></g>
+                    <g transform="translate(48 192)"><text fill="#00ff41" style="animation-delay:-0.4s">+</text></g>
+                    <g transform="translate(48 208)"><text fill="#00ff41" style="animation-delay:-0.3s">-</text></g>
+                    <g transform="translate(48 224)"><text fill="#00ff41" style="animation-delay:-0.2s">=</text></g>
+                    <g transform="translate(48 240)"><text fill="#00ff41" style="animation-delay:-0.1s">[</text></g>
+                    <g transform="translate(48 256)"><text fill="#00ff41" style="animation-delay:0.0s">]</text></g>
+                    <g transform="translate(48 272)"><text fill="#00ff41" style="animation-delay:0.1s">{</text></g>
+                    <g transform="translate(48 288)"><text fill="#00ff41" style="animation-delay:0.2s">}</text></g>
+                    <g transform="translate(48 304)"><text fill="#00ff41" style="animation-delay:0.3s">|</text></g>
+                    <g transform="translate(48 320)"><text fill="#00ff41" style="animation-delay:0.4s">;</text></g>
+                    <g transform="translate(48 336)"><text fill="#00ff41" style="animation-delay:0.5s">:</text></g>
+                    <g transform="translate(48 352)"><text fill="#00ff41" style="animation-delay:0.6s">,</text></g>
+                    <g transform="translate(48 368)"><text fill="#00ff41" style="animation-delay:0.7s">.</text></g>
+                    <g transform="translate(48 384)"><text fill="#00ff41" style="animation-delay:0.8s">&lt;</text></g>
+                    <g transform="translate(48 400)"><text fill="#00ff41" style="animation-delay:0.9s">&gt;</text></g>
+                    <!-- Столбец 4 - очень медленная -->
+                    <g transform="translate(72 16)"><text fill="#00ff41" style="animation-delay:-0.3s">?</text></g>
+                    <g transform="translate(72 32)"><text fill="#00ff41" style="animation-delay:-0.2s">/</text></g>
+                    <g transform="translate(72 48)"><text fill="#00ff41" style="animation-delay:-0.1s">~</text></g>
+                    <g transform="translate(72 64)"><text fill="#00ff41" style="animation-delay:0.0s">イ</text></g>
+                    <g transform="translate(72 80)"><text fill="#00ff41" style="animation-delay:0.1s">キ</text></g>
+                    <g transform="translate(72 96)"><text fill="#00ff41" style="animation-delay:0.2s">ミ</text></g>
+                    <g transform="translate(72 112)"><text fill="#00ff41" style="animation-delay:0.3s">ロ</text></g>
+                    <g transform="translate(72 128)"><text fill="#00ff41" style="animation-delay:0.4s">ク</text></g>
+                    <g transform="translate(72 144)"><text fill="#00ff41" style="animation-delay:0.5s">セ</text></g>
+                    <g transform="translate(72 160)"><text fill="#00ff41" style="animation-delay:0.6s">ヨ</text></g>
+                    <g transform="translate(72 176)"><text fill="#00ff41" style="animation-delay:0.7s">ユ</text></g>
+                    <g transform="translate(72 192)"><text fill="#00ff41" style="animation-delay:0.8s">リ</text></g>
+                    <g transform="translate(72 208)"><text fill="#00ff41" style="animation-delay:0.9s">オ</text></g>
+                    <g transform="translate(72 224)"><text fill="#00ff41" style="animation-delay:1.0s">ツ</text></g>
+                    <g transform="translate(72 240)"><text fill="#00ff41" style="animation-delay:1.1s">ネ</text></g>
+                    <g transform="translate(72 256)"><text fill="#00ff41" style="animation-delay:1.2s">テ</text></g>
+                    <g transform="translate(72 272)"><text fill="#00ff41" style="animation-delay:1.3s">モ</text></g>
+                    <g transform="translate(72 288)"><text fill="#00ff41" style="animation-delay:1.4s">ケ</text></g>
+                    <g transform="translate(72 304)"><text fill="#00ff41" style="animation-delay:1.5s">メ</text></g>
+                    <g transform="translate(72 320)"><text fill="#00ff41" style="animation-delay:1.6s">ホ</text></g>
+                    <g transform="translate(72 336)"><text fill="#00ff41" style="animation-delay:1.7s">ヰ</text></g>
+                    <g transform="translate(72 352)"><text fill="#00ff41" style="animation-delay:1.8s">ノ</text></g>
+                    <g transform="translate(72 368)"><text fill="#00ff41" style="animation-delay:1.9s">ヌ</text></g>
+                    <g transform="translate(72 384)"><text fill="#00ff41" style="animation-delay:2.0s">エ</text></g>
+                    <g transform="translate(72 400)"><text fill="#00ff41" style="animation-delay:2.1s">チ</text></g>
+                    <!-- Столбец 5 - хаотичная -->
+                    <g transform="translate(96 16)"><text fill="#00ff41" style="animation-delay:-1.8s">ヱ</text></g>
+                    <g transform="translate(96 32)"><text fill="#00ff41" style="animation-delay:-1.6s">0</text></g>
+                    <g transform="translate(96 48)"><text fill="#00ff41" style="animation-delay:-1.4s">1</text></g>
+                    <g transform="translate(96 64)"><text fill="#00ff41" style="animation-delay:-1.2s">2</text></g>
+                    <g transform="translate(96 80)"><text fill="#00ff41" style="animation-delay:-1.0s">3</text></g>
+                    <g transform="translate(96 96)"><text fill="#00ff41" style="animation-delay:-0.8s">4</text></g>
+                    <g transform="translate(96 112)"><text fill="#00ff41" style="animation-delay:-0.6s">5</text></g>
+                    <g transform="translate(96 128)"><text fill="#00ff41" style="animation-delay:-0.4s">6</text></g>
+                    <g transform="translate(96 144)"><text fill="#00ff41" style="animation-delay:-0.2s">7</text></g>
+                    <g transform="translate(96 160)"><text fill="#00ff41" style="animation-delay:0.0s">8</text></g>
+                    <g transform="translate(96 176)"><text fill="#00ff41" style="animation-delay:0.2s">9</text></g>
+                    <g transform="translate(96 192)"><text fill="#00ff41" style="animation-delay:0.4s">A</text></g>
+                    <g transform="translate(96 208)"><text fill="#00ff41" style="animation-delay:0.6s">B</text></g>
+                    <g transform="translate(96 224)"><text fill="#00ff41" style="animation-delay:0.8s">C</text></g>
+                    <g transform="translate(96 240)"><text fill="#00ff41" style="animation-delay:1.0s">D</text></g>
+                    <g transform="translate(96 256)"><text fill="#00ff41" style="animation-delay:1.2s">E</text></g>
+                    <g transform="translate(96 272)"><text fill="#00ff41" style="animation-delay:1.4s">F</text></g>
+                    <g transform="translate(96 288)"><text fill="#00ff41" style="animation-delay:1.6s">G</text></g>
+                    <g transform="translate(96 304)"><text fill="#00ff41" style="animation-delay:1.8s">H</text></g>
+                    <g transform="translate(96 320)"><text fill="#00ff41" style="animation-delay:2.0s">I</text></g>
+                    <g transform="translate(96 336)"><text fill="#00ff41" style="animation-delay:2.2s">J</text></g>
+                    <g transform="translate(96 352)"><text fill="#00ff41" style="animation-delay:2.4s">K</text></g>
+                    <g transform="translate(96 368)"><text fill="#00ff41" style="animation-delay:2.6s">L</text></g>
+                    <g transform="translate(96 384)"><text fill="#00ff41" style="animation-delay:2.8s">M</text></g>
+                    <g transform="translate(96 400)"><text fill="#00ff41" style="animation-delay:3.0s">N</text></g>
+                    <!-- Столбец 6 - переменная скорость -->
+                    <g transform="translate(120 16)"><text fill="#00ff41" style="animation-delay:-0.5s">O</text></g>
+                    <g transform="translate(120 32)"><text fill="#00ff41" style="animation-delay:-0.3s">P</text></g>
+                    <g transform="translate(120 48)"><text fill="#00ff41" style="animation-delay:-0.1s">Q</text></g>
+                    <g transform="translate(120 64)"><text fill="#00ff41" style="animation-delay:0.1s">R</text></g>
+                    <g transform="translate(120 80)"><text fill="#00ff41" style="animation-delay:0.3s">S</text></g>
+                    <g transform="translate(120 96)"><text fill="#00ff41" style="animation-delay:0.5s">T</text></g>
+                    <g transform="translate(120 112)"><text fill="#00ff41" style="animation-delay:0.7s">U</text></g>
+                    <g transform="translate(120 128)"><text fill="#00ff41" style="animation-delay:0.9s">V</text></g>
+                    <g transform="translate(120 144)"><text fill="#00ff41" style="animation-delay:1.1s">W</text></g>
+                    <g transform="translate(120 160)"><text fill="#00ff41" style="animation-delay:1.3s">X</text></g>
+                    <g transform="translate(120 176)"><text fill="#00ff41" style="animation-delay:1.5s">Y</text></g>
+                    <g transform="translate(120 192)"><text fill="#00ff41" style="animation-delay:1.7s">Z</text></g>
+                    <g transform="translate(120 208)"><text fill="#00ff41" style="animation-delay:1.9s">!</text></g>
+                    <g transform="translate(120 224)"><text fill="#00ff41" style="animation-delay:2.1s">@</text></g>
+                    <g transform="translate(120 240)"><text fill="#00ff41" style="animation-delay:2.3s">#</text></g>
+                    <g transform="translate(120 256)"><text fill="#00ff41" style="animation-delay:2.5s">$</text></g>
+                    <g transform="translate(120 272)"><text fill="#00ff41" style="animation-delay:2.7s">%</text></g>
+                    <g transform="translate(120 288)"><text fill="#00ff41" style="animation-delay:2.9s">&amp;</text></g>
+                    <g transform="translate(120 304)"><text fill="#00ff41" style="animation-delay:3.1s">*</text></g>
+                    <g transform="translate(120 320)"><text fill="#00ff41" style="animation-delay:3.3s">(</text></g>
+                    <g transform="translate(120 336)"><text fill="#00ff41" style="animation-delay:3.5s">)</text></g>
+                    <g transform="translate(120 352)"><text fill="#00ff41" style="animation-delay:3.7s">_</text></g>
+                    <g transform="translate(120 368)"><text fill="#00ff41" style="animation-delay:3.9s">+</text></g>
+                    <g transform="translate(120 384)"><text fill="#00ff41" style="animation-delay:4.1s">-</text></g>
+                    <g transform="translate(120 400)"><text fill="#00ff41" style="animation-delay:4.3s">=</text></g>
+                    <!-- Столбец 7 - рваный ритм -->
+                    <g transform="translate(144 16)"><text fill="#00ff41" style="animation-delay:-1.0s">[</text></g>
+                    <g transform="translate(144 32)"><text fill="#00ff41" style="animation-delay:-0.8s">]</text></g>
+                    <g transform="translate(144 48)"><text fill="#00ff41" style="animation-delay:-0.6s">{</text></g>
+                    <g transform="translate(144 64)"><text fill="#00ff41" style="animation-delay:-0.4s">}</text></g>
+                    <g transform="translate(144 80)"><text fill="#00ff41" style="animation-delay:-0.2s">|</text></g>
+                    <g transform="translate(144 96)"><text fill="#00ff41" style="animation-delay:0.0s">;</text></g>
+                    <g transform="translate(144 112)"><text fill="#00ff41" style="animation-delay:0.2s">:</text></g>
+                    <g transform="translate(144 128)"><text fill="#00ff41" style="animation-delay:0.4s">,</text></g>
+                    <g transform="translate(144 144)"><text fill="#00ff41" style="animation-delay:0.6s">.</text></g>
+                    <g transform="translate(144 160)"><text fill="#00ff41" style="animation-delay:0.8s">&lt;</text></g>
+                    <g transform="translate(144 176)"><text fill="#00ff41" style="animation-delay:1.0s">&gt;</text></g>
+                    <g transform="translate(144 192)"><text fill="#00ff41" style="animation-delay:1.2s">?</text></g>
+                    <g transform="translate(144 208)"><text fill="#00ff41" style="animation-delay:1.4s">/</text></g>
+                    <g transform="translate(144 224)"><text fill="#00ff41" style="animation-delay:1.6s">~</text></g>
+                    <g transform="translate(144 240)"><text fill="#00ff41" style="animation-delay:1.8s">ア</text></g>
+                    <g transform="translate(144 256)"><text fill="#00ff41" style="animation-delay:2.0s">カ</text></g>
+                    <g transform="translate(144 272)"><text fill="#00ff41" style="animation-delay:2.2s">サ</text></g>
+                    <g transform="translate(144 288)"><text fill="#00ff41" style="animation-delay:2.4s">タ</text></g>
+                    <g transform="translate(144 304)"><text fill="#00ff41" style="animation-delay:2.6s">ナ</text></g>
+                    <g transform="translate(144 320)"><text fill="#00ff41" style="animation-delay:2.8s">ハ</text></g>
+                    <g transform="translate(144 336)"><text fill="#00ff41" style="animation-delay:3.0s">マ</text></g>
+                    <g transform="translate(144 352)"><text fill="#00ff41" style="animation-delay:3.2s">ヤ</text></g>
+                    <g transform="translate(144 368)"><text fill="#00ff41" style="animation-delay:3.4s">ラ</text></g>
+                    <g transform="translate(144 384)"><text fill="#00ff41" style="animation-delay:3.6s">ワ</text></g>
+                    <g transform="translate(144 400)"><text fill="#00ff41" style="animation-delay:3.8s">ガ</text></g>
+                    <!-- Столбец 8 - случайные интервалы -->
+                    <g transform="translate(168 16)"><text fill="#00ff41" style="animation-delay:-0.7s">ザ</text></g>
+                    <g transform="translate(168 32)"><text fill="#00ff41" style="animation-delay:-0.5s">ダ</text></g>
+                    <g transform="translate(168 48)"><text fill="#00ff41" style="animation-delay:-0.2s">バ</text></g>
+                    <g transform="translate(168 64)"><text fill="#00ff41" style="animation-delay:0.1s">パ</text></g>
+                    <g transform="translate(168 80)"><text fill="#00ff41" style="animation-delay:0.4s">0</text></g>
+                    <g transform="translate(168 96)"><text fill="#00ff41" style="animation-delay:0.7s">1</text></g>
+                    <g transform="translate(168 112)"><text fill="#00ff41" style="animation-delay:1.0s">2</text></g>
+                    <g transform="translate(168 128)"><text fill="#00ff41" style="animation-delay:1.3s">3</text></g>
+                    <g transform="translate(168 144)"><text fill="#00ff41" style="animation-delay:1.6s">4</text></g>
+                    <g transform="translate(168 160)"><text fill="#00ff41" style="animation-delay:1.9s">5</text></g>
+                    <g transform="translate(168 176)"><text fill="#00ff41" style="animation-delay:2.2s">6</text></g>
+                    <g transform="translate(168 192)"><text fill="#00ff41" style="animation-delay:2.5s">7</text></g>
+                    <g transform="translate(168 208)"><text fill="#00ff41" style="animation-delay:2.8s">8</text></g>
+                    <g transform="translate(168 224)"><text fill="#00ff41" style="animation-delay:3.1s">9</text></g>
+                    <g transform="translate(168 240)"><text fill="#00ff41" style="animation-delay:3.4s">A</text></g>
+                    <g transform="translate(168 256)"><text fill="#00ff41" style="animation-delay:3.7s">B</text></g>
+                    <g transform="translate(168 272)"><text fill="#00ff41" style="animation-delay:4.0s">C</text></g>
+                    <g transform="translate(168 288)"><text fill="#00ff41" style="animation-delay:4.3s">D</text></g>
+                    <g transform="translate(168 304)"><text fill="#00ff41" style="animation-delay:4.6s">E</text></g>
+                    <g transform="translate(168 320)"><text fill="#00ff41" style="animation-delay:4.9s">F</text></g>
+                    <g transform="translate(168 336)"><text fill="#00ff41" style="animation-delay:5.2s">G</text></g>
+                    <g transform="translate(168 352)"><text fill="#00ff41" style="animation-delay:5.5s">H</text></g>
+                    <g transform="translate(168 368)"><text fill="#00ff41" style="animation-delay:5.8s">I</text></g>
+                    <g transform="translate(168 384)"><text fill="#00ff41" style="animation-delay:6.1s">J</text></g>
+                    <g transform="translate(168 400)"><text fill="#00ff41" style="animation-delay:6.4s">K</text></g>
+                    <style type="text/css">
+                        @keyframes js-neo-matrix-rain {
+                        0% {
+                        opacity: 0;
+                        transform: translateY(-30px) scaleX(1);
+                        }
+                        15% {
+                        opacity: 1;
+                        fill: #c5ff10;
+                        transform: translateY(0) scaleX(1);
+                        }
+                        25% {
+                        opacity: 1;
+                        fill: #00ff41;
+                        transform: scaleX(1);
+                        }
+                        60% {
+                        opacity: 0.6;
+                        transform: scaleX(1);
+                        }
+                        85% {
+                        opacity: 0.2;
+                        transform: scaleX(1);
+                        }
+                        100% {
+                        opacity: 0;
+                        transform: scaleX(1);
+                        }
+                        }
+                        text {
+                        animation: js-neo-matrix-rain 3s ease-in-out infinite;
+                        }
+                    </style>
+                </g>
+            </g>
+        </pattern>
+    </defs>
+    <rect x="0" y="0" width="1084" height="322" fill="url(#js-neo-matrix-pattern)" opacity="0.4"></rect>
+</svg>
