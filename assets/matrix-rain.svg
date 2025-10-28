@@ -8,8 +8,8 @@
                     <!-- 8 колонок × 25 строк = 200 символов -->
                     <!-- Каждая колонка имеет свою случайную задержку и скорость -->
                     <!-- Столбец 1 - быстрая колонка -->
-                    <g transform="translate(0 16)"><text fill="#00ff41" style="animation-delay:-1.2s">ア</text></g>
-                    <g transform="translate(0 32)"><text fill="#00ff41" style="animation-delay:-1.1s">A</text></g>
+                    <g transform="translate(0 16)"><text fill="#00ff41" style="animation-delay:-1.2s">J</text></g>
+                    <g transform="translate(0 32)"><text fill="#00ff41" style="animation-delay:-1.1s">ア</text></g>
                     <g transform="translate(0 48)"><text fill="#00ff41" style="animation-delay:-1.0s">1</text></g>
                     <g transform="translate(0 64)"><text fill="#00ff41" style="animation-delay:-0.9s">カ</text></g>
                     <g transform="translate(0 80)"><text fill="#00ff41" style="animation-delay:-0.8s">B</text></g>
@@ -34,7 +34,7 @@
                     <g transform="translate(0 384)"><text fill="#00ff41" style="animation-delay:1.1s">8</text></g>
                     <g transform="translate(0 400)"><text fill="#00ff41" style="animation-delay:1.2s">ラ</text></g>
                     <!-- Столбец 2 - медленная колонка -->
-                    <g transform="translate(24 16)"><text fill="#00ff41" style="animation-delay:-0.8s">I</text></g>
+                    <g transform="translate(24 16)"><text fill="#00ff41" style="animation-delay:-0.8s">S</text></g>
                     <g transform="translate(24 32)"><text fill="#00ff41" style="animation-delay:-0.7s">9</text></g>
                     <g transform="translate(24 48)"><text fill="#00ff41" style="animation-delay:-0.6s">ワ</text></g>
                     <g transform="translate(24 64)"><text fill="#00ff41" style="animation-delay:-0.5s">J</text></g>
@@ -60,7 +60,7 @@
                     <g transform="translate(24 384)"><text fill="#00ff41" style="animation-delay:1.5s">X</text></g>
                     <g transform="translate(24 400)"><text fill="#00ff41" style="animation-delay:1.6s">Y</text></g>
                     <!-- Столбец 3 - средняя скорость -->
-                    <g transform="translate(48 16)"><text fill="#00ff41" style="animation-delay:-1.5s">Z</text></g>
+                    <g transform="translate(48 16)"><text fill="#00ff41" style="animation-delay:-1.5s">N</text></g>
                     <g transform="translate(48 32)"><text fill="#00ff41" style="animation-delay:-1.4s">!</text></g>
                     <g transform="translate(48 48)"><text fill="#00ff41" style="animation-delay:-1.3s">@</text></g>
                     <g transform="translate(48 64)"><text fill="#00ff41" style="animation-delay:-1.2s">#</text></g>
@@ -86,7 +86,7 @@
                     <g transform="translate(48 384)"><text fill="#00ff41" style="animation-delay:0.8s">&lt;</text></g>
                     <g transform="translate(48 400)"><text fill="#00ff41" style="animation-delay:0.9s">&gt;</text></g>
                     <!-- Столбец 4 - очень медленная -->
-                    <g transform="translate(72 16)"><text fill="#00ff41" style="animation-delay:-0.3s">?</text></g>
+                    <g transform="translate(72 16)"><text fill="#00ff41" style="animation-delay:-0.3s">E</text></g>
                     <g transform="translate(72 32)"><text fill="#00ff41" style="animation-delay:-0.2s">/</text></g>
                     <g transform="translate(72 48)"><text fill="#00ff41" style="animation-delay:-0.1s">~</text></g>
                     <g transform="translate(72 64)"><text fill="#00ff41" style="animation-delay:0.0s">イ</text></g>
@@ -112,7 +112,7 @@
                     <g transform="translate(72 384)"><text fill="#00ff41" style="animation-delay:2.0s">エ</text></g>
                     <g transform="translate(72 400)"><text fill="#00ff41" style="animation-delay:2.1s">チ</text></g>
                     <!-- Столбец 5 - хаотичная -->
-                    <g transform="translate(96 16)"><text fill="#00ff41" style="animation-delay:-1.8s">ヱ</text></g>
+                    <g transform="translate(96 16)"><text fill="#00ff41" style="animation-delay:-1.8s">O</text></g>
                     <g transform="translate(96 32)"><text fill="#00ff41" style="animation-delay:-1.6s">0</text></g>
                     <g transform="translate(96 48)"><text fill="#00ff41" style="animation-delay:-1.4s">1</text></g>
                     <g transform="translate(96 64)"><text fill="#00ff41" style="animation-delay:-1.2s">2</text></g>
@@ -138,7 +138,7 @@
                     <g transform="translate(96 384)"><text fill="#00ff41" style="animation-delay:2.8s">M</text></g>
                     <g transform="translate(96 400)"><text fill="#00ff41" style="animation-delay:3.0s">N</text></g>
                     <!-- Столбец 6 - переменная скорость -->
-                    <g transform="translate(120 16)"><text fill="#00ff41" style="animation-delay:-0.5s">O</text></g>
+                    <g transform="translate(120 16)"><text fill="#00ff41" style="animation-delay:-0.5s">D</text></g>
                     <g transform="translate(120 32)"><text fill="#00ff41" style="animation-delay:-0.3s">P</text></g>
                     <g transform="translate(120 48)"><text fill="#00ff41" style="animation-delay:-0.1s">Q</text></g>
                     <g transform="translate(120 64)"><text fill="#00ff41" style="animation-delay:0.1s">R</text></g>
@@ -164,7 +164,7 @@
                     <g transform="translate(120 384)"><text fill="#00ff41" style="animation-delay:4.1s">-</text></g>
                     <g transform="translate(120 400)"><text fill="#00ff41" style="animation-delay:4.3s">=</text></g>
                     <!-- Столбец 7 - рваный ритм -->
-                    <g transform="translate(144 16)"><text fill="#00ff41" style="animation-delay:-1.0s">[</text></g>
+                    <g transform="translate(144 16)"><text fill="#00ff41" style="animation-delay:-1.0s">E</text></g>
                     <g transform="translate(144 32)"><text fill="#00ff41" style="animation-delay:-0.8s">]</text></g>
                     <g transform="translate(144 48)"><text fill="#00ff41" style="animation-delay:-0.6s">{</text></g>
                     <g transform="translate(144 64)"><text fill="#00ff41" style="animation-delay:-0.4s">}</text></g>
@@ -190,7 +190,7 @@
                     <g transform="translate(144 384)"><text fill="#00ff41" style="animation-delay:3.6s">ワ</text></g>
                     <g transform="translate(144 400)"><text fill="#00ff41" style="animation-delay:3.8s">ガ</text></g>
                     <!-- Столбец 8 - случайные интервалы -->
-                    <g transform="translate(168 16)"><text fill="#00ff41" style="animation-delay:-0.7s">ザ</text></g>
+                    <g transform="translate(168 16)"><text fill="#00ff41" style="animation-delay:-0.7s">V</text></g>
                     <g transform="translate(168 32)"><text fill="#00ff41" style="animation-delay:-0.5s">ダ</text></g>
                     <g transform="translate(168 48)"><text fill="#00ff41" style="animation-delay:-0.2s">バ</text></g>
                     <g transform="translate(168 64)"><text fill="#00ff41" style="animation-delay:0.1s">パ</text></g>
