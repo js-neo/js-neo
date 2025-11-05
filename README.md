@@ -308,7 +308,7 @@ $\color{#00FF41}\text{It's a pity that I can't share some of them.}$
 $\color{#00FF41}\text{> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED: }$
     </td>
     <td style="vertical-align: middle;">
-      <img src="https://komarev.com/ghpvc/?username=js-neo&color=00FF41&label=" alt="Counter" />
+      <img src="https://komarev.com/ghpvc/?username=js-neo&color=grey&label=" alt="Counter" />
     </td>
   </tr>
 </table>
