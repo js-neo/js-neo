@@ -1,10 +1,3 @@
-### $ \color{#00FF41}\text{> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED}$
-<a href="https://www.hitwebcounter.com/" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=21455167&style=0009&nbdigits=8&type=page&initCount=0" title="Matrix Counter" Alt="Access Log" border="0" /></a>
-
-$\color{#00FF41}\text{> TERMINAL ONLINE - TRACKING ACTIVE}$
-
-
 <div align="center">
 
 ![Matrix Boot Sequence](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIALIZING+MATRIX+ENVIRONMENT...;LOADING+SYSTEM+COMPONENTS...;WARNING%3A+LaTeX+RENDERING+MAY+FAIL+ON+NAVIGATION;SOLUTION%3A+RELOAD+PAGE+(F5)+FOR+OPTIMAL+VIEW)
@@ -99,23 +92,23 @@ js-neo@matrix:~$ █
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{Currently pursuing a MASTER'S DEGREE 2025-2027}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp; $\color{#00FF41}\text{Applied Informatics | AI Project Management}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp;[Moscow University of Industry and Finance "Synergy"](https://synergy.ru/)  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp;[Moscow University of Industry and Finance "Synergy"](https://synergy.ru/)
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{BACHELOR'S DEGREE 2025}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp; $\color{#00FF41}\text{Information Systems \\& Technologies | Web Development degree with honors}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp;[Synergy University](https://synergy.ru/)  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp;[Synergy University](https://synergy.ru/)
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROFESSIONAL TRAINING 2022}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp; $\color{#00FF41}\text{Junior Frontend Developer | Graduated with thesis defense}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp;[Result School](https://result.school/)  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp;[Result School](https://result.school/)
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{ADVANCED COURSE 2021}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp; $\color{#00FF41}\text{JavaScript/DOM/Interfaces | Graduated with Honors}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp;[learn.javascript.ru](https://learn.javascript.ru/)  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp;[learn.javascript.ru](https://learn.javascript.ru/)
 
 $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp; $\color{#00FF41}\text{Started with JavaScript}$  
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp; $\color{#00FF41}\text{"Head First JavaScript Programming"}$  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{∟}$&nbsp; $\color{#00FF41}\text{"Head First JavaScript Programming"}$
 
 </div>
 
@@ -129,7 +122,7 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Storage:}$ $\color{#00FF41}\text{MongoDB}$ $\color{#00FF41}\text{Google Drive API}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Metrics:}$ $\color{#00F0FF}\text{80\\%}$ $\color{#00F0FF}\text{time savings}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{0\\%}$ $\color{#00F0FF}\text{errors}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{30\\%}$ $\color{#00F0FF}\text{productivity growth}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Features:}$ $\color{#00F0FF}\text{Speech recognition}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Video/photo processing}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Automatic Excel reports}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Telegram bot}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{JWT authentication}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Demo](https://js-neo.github.io/chrono-control-saas-page/)  
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Demo](https://js-neo.github.io/chrono-control-saas-page/)
 
 ### $\color{#9D00FF}\text{Σ}$ $\color{#9D00FF}\text{EXCEL PROCESSOR}$ $\color{#9D00FF}\textit{WEB AUTOMATION}$
 
@@ -275,3 +268,7 @@ $\color{#00FF41}\text{Thank you for visiting my digital world! Feel free to expl
 $\color{#00FF41}\text{It's a pity that I can't share some of them.}$
 
 </div>
+
+$\color{#00FF41}\text{> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED: }$ <img src="https://hitwebcounter.com/counter/counter.php?page=21455167&style=0009&nbdigits=8&type=page&initCount=0" title="Matrix Counter" Alt="Access Log" border="0" />
+
+
