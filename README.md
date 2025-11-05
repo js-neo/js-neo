@@ -301,20 +301,6 @@ $\color{#00FF41}\text{It's a pity that I can't share some of them.}$
 [//]: # ($\color{#00FF41}\text{> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED: }$ <img src="https://hitwebcounter.com/counter/counter.php?page=21455167&style=0009&nbdigits=8&type=page&initCount=0" title="Matrix Counter" Alt="Access Log" border="0" />)
 
 <div align="center">
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="vertical-align: middle; border: none; padding: 5px;"> 
-
-$\color{#00FF41}\text{> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED: }$
-    </td>
-    <td style="vertical-align: middle; border: none; padding: 5px;">
-      <img src="https://komarev.com/ghpvc/?username=js-neo&color=00FF41&label=" alt="Counter" />
-    </td>
-  </tr>
-</table>
-</div>
-
-<div align="center">
 <table>
   <tr>
     <td style="vertical-align: middle;">
