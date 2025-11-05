@@ -1,3 +1,10 @@
+### $ \color{#00FF41}\text{> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED}$
+<a href="https://www.hitwebcounter.com/" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=21455167&style=0009&nbdigits=8&type=page&initCount=0" title="Matrix Counter" Alt="Access Log" border="0" /></a>
+
+$\color{#00FF41}\text{> TERMINAL ONLINE - TRACKING ACTIVE}$
+
+
 <div align="center">
 
 ![Matrix Boot Sequence](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIALIZING+MATRIX+ENVIRONMENT...;LOADING+SYSTEM+COMPONENTS...;WARNING%3A+LaTeX+RENDERING+MAY+FAIL+ON+NAVIGATION;SOLUTION%3A+RELOAD+PAGE+(F5)+FOR+OPTIMAL+VIEW)
