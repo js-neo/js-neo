@@ -269,6 +269,6 @@ $\color{#00FF41}\text{It's a pity that I can't share some of them.}$
 
 </div>
 
-$\color{#00FF41}\text{> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED: }$ <img src="https://hitwebcounter.com/counter/counter.php?page=21455167&style=0009&nbdigits=8&type=page&initCount=0" title="Matrix Counter" Alt="Access Log" border="0" />
-
+[//]: # ($\color{#00FF41}\text{> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED: }$ <img src="https://hitwebcounter.com/counter/counter.php?page=21455167&style=0009&nbdigits=8&type=page&initCount=0" title="Matrix Counter" Alt="Access Log" border="0" />)
+$\color{#00FF41}\text{> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED} $ ![](https://komarev.com/ghpvc/?username=your-github-js-neo&color=00FF41&label=:)
 
