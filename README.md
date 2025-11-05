@@ -313,3 +313,17 @@ $\color{#00FF41}\text{> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED: }$
   </tr>
 </table>
 </div>
+
+<div align="center">
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+
+$\color{#00FF41}\text{> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED: }$
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://komarev.com/ghpvc/?username=js-neo&color=00FF41&label=" alt="Counter" />
+    </td>
+  </tr>
+</table>
+</div>
