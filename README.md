@@ -184,20 +184,20 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 █  LOADING GITHUB MATRIX...
 ```
 
-  <a href="https://github.com/js-neo">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=js-neo&hide=stars,issues&show_icons=true&theme=merko&bg_color=00000000" alt="Yuriy's GitHub Stats" />
-  </a>
-  <a href="https://github.com/js-neo">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=js-neo&layout=compact&theme=merko&bg_color=00000000" alt="Top Languages" />
-  </a>
+ <a href="https://github.com/js-neo"> 
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=js-neo&hide=stars,issues&show_icons=true&theme=merko&bg_color=00000000&hide_title=true&line_height=18" alt="GitHub Stats" /> 
+</a>
+<a href="https://github.com/js-neo">
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=js-neo&layout=compact&theme=merko&bg_color=00000000&hide_title=true&langs_count=6" alt="Top Languages" /> 
+</a>
 
 </div>
 
 <div align="center">
 
-  <!-- Более тонкие карточки для детальной статистики -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=js-neo&theme=solarized_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=js-neo&theme=solarized_dark" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=js-neo&theme=solarized_dark" />
+&nbsp;&nbsp;
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=js-neo&theme=solarized_dark" />
 
 </div>
 
@@ -306,10 +306,10 @@ $\color{#00FF41}\text{It's a pity that I can't share some of them.}$
     <td style="vertical-align: middle;">
 
 $\color{#00FF41}\text{> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED: }$
-    </td>
-    <td style="vertical-align: middle;">
-      <img src="https://komarev.com/ghpvc/?username=js-neo&color=grey&label=" alt="Counter" />
-    </td>
+</td>
+<td style="vertical-align: middle;">
+<img src="https://komarev.com/ghpvc/?username=js-neo&color=grey&label=" alt="Counter" />
+</td>
   </tr>
 </table>
 </div>
