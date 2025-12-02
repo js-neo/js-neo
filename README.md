@@ -185,10 +185,10 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 ```
 
   <a href="https://github.com/js-neo">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=js-neo&hide=stars,issues&show_icons=true&theme=merko&bg_color=00000000" alt="Yuriy's GitHub Stats" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=js-neo&hide=stars,issues&show_icons=true&theme=merko&bg_color=00000000" alt="Yuriy's GitHub Stats" />
   </a>
   <a href="https://github.com/js-neo">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=js-neo&layout=compact&theme=merko&bg_color=00000000" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=js-neo&layout=compact&theme=merko&bg_color=00000000" alt="Top Languages" />
   </a>
 
 </div>
