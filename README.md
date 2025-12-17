@@ -71,7 +71,7 @@ js-neo@matrix:~$ system_diagnostic --full
 js-neo@matrix:~$ connect --professional
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com  
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Portfolio:}$ https://jsneo.ru  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Status:}$ $\color{#00FF41}\text{AVAILABLE FOR COLLABORATION}$
 
 ```bash
@@ -169,7 +169,7 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{API \\& Forms:}$ $\color{#00FF41}\text{Next.js API Routes}$ $\color{#00FF41}\text{Nodemailer}$ $\color{#00FF41}\text{Formik}$ $\color{#00FF41}\text{Yup Validation}$ $\color{#00FF41}\text{Email Templates}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Metrics:}$ $\color{#00F0FF}\text{60 FPS}$ $\color{#00F0FF}\text{3D performance}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{100\\%}$ $\color{#00F0FF}\text{responsive}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Real-time}$ $\color{#00F0FF}\text{animations}$  
 &nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Features:}$ $\color{#00F0FF}\text{Interactive CodeSphere}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Matrix Rain}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Matrix Terminal}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Glitch Text}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Sound System}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Contact API}$ $\color{#00FF41}\text{•}$ $\color{#00F0FF}\text{Code Highlighting}$  
-&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Live Demo](https://js-neo.com)
+&nbsp;&nbsp; $\color{#00FF41}\text{∟}$ $\color{#00FF41}\text{Links:}$ [Live Demo](https://jsneo.ru)
 <div align="center">
 
 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
