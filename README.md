@@ -71,7 +71,7 @@ js-neo@matrix:~$ system_diagnostic --full
 js-neo@matrix:~$ connect --professional
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com 
+&nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Portfolio:}$ https://js-neo.com  
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{#00FF41}\text{> Status:}$ $\color{#00FF41}\text{AVAILABLE FOR COLLABORATION}$
 
 ```bash
