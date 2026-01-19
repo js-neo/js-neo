@@ -293,7 +293,7 @@ $\color{#00FF41}\text{█}$ $\color{#00FF41}\text{PROGRAMMING INITIATION 2020}$
 >  AWAITING USER INPUT _
 ```
 
-$\color{#00FF41}\text{PORTFOLIO POWERED BY}$ $\color{#00FF41}\text{Next.js}$ $\color{#00FF41}\text{TypeScript}$ $\color{#00FF41}\text{Three.js}$ $\color{#00FF41}\text{Tailwind}$
+$\color{#00FF41}\text{PORTFOLIO POWERED BY}$ $\color{#00FF41}\text{Next.js}$ $\color{#00FF41}\text{TypeScript}$ $\color{#00FF41}\text{Three.js}$ $\color{#00FF41}\text{Canvas}$ $\color{#00FF41}\text{Tailwind}$
 
 $\color{#00FF41}\text{🟢 MATRIX SYSTEMS: OPERATIONAL}$ $\color{#00FF41}\text{│}$ $\color{#00FF41}\text{⭮ CONTACT: OPEN}$ $\color{#00FF41}\text{│}$ $\color{#00FF41}\text{⇄ LAST UPDATE: 2025}$
 
