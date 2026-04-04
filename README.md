@@ -173,8 +173,10 @@ Browser-based Excel automation tool for spreadsheet generation and transformatio
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=js-neo&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&ring_color=00FF41" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=js-neo&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=js-neo&theme=github_dark" alt="Profile Details" />
+<br />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=js-neo&theme=github_dark" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=js-neo&theme=github_dark" alt="Most Commit Language" />
 
 </div>
 
