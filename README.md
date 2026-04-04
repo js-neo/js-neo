@@ -71,7 +71,7 @@ js-neo@matrix:~$ system_diagnostic --full
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-js--neo.com-000000?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://js-neo.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@js--neo-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/js-neo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuriy%20Vedernikov-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://ru.linkedin.com/in/yuriy-vedernikov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JS--Neo-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://ru.linkedin.com/in/yuriy-vedernikov)
 [![Email](https://img.shields.io/badge/Email-jsneoweb%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:jsneoweb@gmail.com)
 
 </div>
