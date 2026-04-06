@@ -212,10 +212,7 @@ Some systems are not publicly accessible.
 <table>
   <tr>
     <td style="vertical-align: middle;">
-
-```text
 > SYSTEM ACCESS TERMINAL — ALL CONNECTIONS TRACKED
-```
 </td>
 <td style="vertical-align: middle;">
 <img src="https://komarev.com/ghpvc/?username=js-neo&color=grey&label=" alt="Counter" />
