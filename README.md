@@ -189,3 +189,60 @@ js-neo@matrix:~$ status
 MATRIX SYSTEMS: OPERATIONAL
 OPEN TO: collaboration / frontend / product engineering / automation
 ```
+
+---
+
+## `> final.transmission`
+
+<div align="center">
+
+"THE MATRIX IS A SYSTEM, NEO.
+THAT SYSTEM IS OUR ENEMY."
+*Morpheus*
+
+
+Thank you for visiting my digital world.
+Some systems are not publicly accessible.
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+> SYSTEM ACCESS TERMINAL — ALL CONNECTIONS TRACKED
+```
+<img src="https://komarev.com/ghpvc/?username=js-neo&color=00ff41&style=flat-square&label=" /> 
+
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+
+> SYSTEM ACCESS TERMINAL — ALL CONNECTIONS TRACKED
+</td>
+<td style="vertical-align: middle;">
+<img src="https://komarev.com/ghpvc/?username=js-neo&color=grey&label=" alt="Counter" />
+</td>
+  </tr>
+</table>
+</div>
+
+[//]: # ( SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED: <img src="https://hitwebcounter.com/counter/counter.php?page=21455167&style=0009&nbdigits=8&type=page&initCount=0" title="Matrix Counter" Alt="Access Log" border="0" />)
+
+<div align="center">
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+
+> SYSTEM ACCESS TERMINAL - ALL CONNECTIONS TRACKED: 
+</td>
+<td style="vertical-align: middle;">
+<img src="https://komarev.com/ghpvc/?username=js-neo&color=grey&label=" alt="Counter" />
+</td>
+  </tr>
+</table>
+</div>
