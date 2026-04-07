@@ -63,23 +63,23 @@ Current trajectory:
 
 ---
 
-## `> education.log`
+## `> training.sequence`
 
 ```text
-[2025–2027] Master's Degree
-Applied Informatics — AI Project Management
+[MODULE 01] [2025–2027] MASTER'S DEGREE
+             Applied Informatics — AI Project Management
 
-[2025] Bachelor's Degree with Honors
-Information Systems and Technologies — Web Development
+[MODULE 02] [2025]      BACHELOR'S DEGREE WITH HONORS
+             Information Systems and Technologies — Web Development
 
-[2022] Professional Training
-Junior Frontend Developer — thesis defense completed
+[MODULE 03] [2022]      PROFESSIONAL TRAINING
+             Junior Frontend Developer — thesis defense completed
 
-[2021] Advanced Course with Honors
-JavaScript / DOM / Interfaces
+[MODULE 04] [2021]      ADVANCED COURSE WITH HONORS
+             JavaScript / DOM / Interfaces
 
-[2020] Entry Point
-Self-directed JavaScript study
+[MODULE 05] [2020]      ENTRY POINT
+             Self-directed JavaScript study
 ```
 
 ---
