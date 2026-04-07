@@ -26,9 +26,9 @@ js-neo@matrix:~$ _
 
 # JS-NEO // SYSTEM OPERATOR
 
-**Full-Stack Developer · Frontend Architect · Matrix Builder**
+**Frontend Architect · Full-Stack Developer · AI Systems Builder**
 
-*Building immersive interfaces, scalable web systems, and AI-powered automation.*
+*I build systems, not just features.*
 
 </div>
 
@@ -39,9 +39,14 @@ js-neo@matrix:~$ _
 ```bash
 js-neo@matrix:~$ whoami
 JS-Neo
-Full-Stack Developer focused on modern frontend engineering,
-interactive UI systems, clean architecture, and AI-enhanced products.
+
+I design scalable frontend systems,
+build immersive interfaces,
+and engineer automation workflows powered by AI.
 ```
+
+---
+## `> system.overview`
 
 I build modern digital products with a strong emphasis on:
 
@@ -51,7 +56,31 @@ I build modern digital products with a strong emphasis on:
 - **data processing and Excel automation**
 - **AI integrations and workflow optimization**
 
-My public profile is intentionally built as a **Matrix-styled system interface** — not only to showcase visual design, but also to reflect how I think about software: structured, interactive, and memorable.
+Current trajectory:
+- Master’s degree in **Applied Informatics**
+- Focus: **AI Project Management**
+- Strong emphasis on modern frontend engineering, architecture, and product-quality UX
+
+---
+
+## `> education.log`
+
+```text
+[2025–2027] Master's Degree
+Applied Informatics — AI Project Management
+
+[2025] Bachelor's Degree with Honors
+Information Systems and Technologies — Web Development
+
+[2022] Professional Training
+Junior Frontend Developer — thesis defense completed
+
+[2021] Advanced Course with Honors
+JavaScript / DOM / Interfaces
+
+[2020] Entry Point
+Self-directed JavaScript study
+```
 
 ---
 
@@ -196,27 +225,23 @@ OPEN TO: collaboration / frontend / product engineering / automation
 
 <div align="center">
 
+```text
 "THE MATRIX IS A SYSTEM, NEO.
 THAT SYSTEM IS OUR ENEMY."
+```
+
 *Morpheus*
 
-
-Thank you for visiting my digital world.
+Thank you for visiting my digital world.  
 Some systems are not publicly accessible.
 
 </div>
 
 ---
 
-<div align="center">
-<table>
-  <tr>
-    <td style="vertical-align: middle;">
-> SYSTEM ACCESS TERMINAL — ALL CONNECTIONS TRACKED
-</td>
-<td style="vertical-align: middle;">
-<img src="https://komarev.com/ghpvc/?username=js-neo&color=grey&label=" alt="Counter" />
-</td>
-  </tr>
-</table>
+## `> access.log`
+
+<div>
+> SYSTEM ACCESS TERMINAL — ALL CONNECTIONS TRACKED &nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=js-neo&color=grey&style=flat-square&label=" alt="Counter" />
 </div>
