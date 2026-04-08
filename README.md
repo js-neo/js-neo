@@ -63,27 +63,6 @@ Current trajectory:
 
 ---
 
-## `> training.sequence`
-
-```text
-[MODULE 01] [2025–2027] MASTER'S DEGREE
-             Applied Informatics — AI Project Management
-
-[MODULE 02] [2025]      BACHELOR'S DEGREE WITH HONORS
-             Information Systems and Technologies — Web Development
-
-[MODULE 03] [2022]      PROFESSIONAL TRAINING
-             Junior Frontend Developer — thesis defense completed
-
-[MODULE 04] [2021]      ADVANCED COURSE WITH HONORS
-             JavaScript / DOM / Interfaces
-
-[MODULE 05] [2020]      ENTRY POINT
-             Self-directed JavaScript study
-```
-
----
-
 ## `> system.status`
 
 ```bash
@@ -195,6 +174,29 @@ Browser-based Excel automation tool for spreadsheet generation and transformatio
 **Core stack:** `JavaScript` `ExcelJS`
 
 **Access:** https://js-neo.github.io/excel-web-processor/
+
+---
+
+## `> training.sequence`
+
+```text
+[OK] Training modules: LOADED
+
+[MODULE 01] [2025–2027] MASTER'S DEGREE
+             Applied Informatics — AI Project Management
+
+[MODULE 02] [2025]      BACHELOR'S DEGREE WITH HONORS
+             Information Systems and Technologies — Web Development
+
+[MODULE 03] [2022]      PROFESSIONAL TRAINING
+             Junior Frontend Developer — thesis defense completed
+
+[MODULE 04] [2021]      ADVANCED COURSE WITH HONORS
+             JavaScript / DOM / Interfaces
+
+[MODULE 05] [2020]      ENTRY POINT
+             Self-directed JavaScript study
+```
 
 ---
 
