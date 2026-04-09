@@ -204,10 +204,12 @@ Browser-based Excel automation tool for spreadsheet generation and transformatio
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=js-neo&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=js-neo&theme=github_dark" />
 <br />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=js-neo&theme=github_dark" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=js-neo&theme=github_dark" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=js-neo&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=js-neo&theme=github_dark" />
+<br />
+<img src="https://streak-stats.demolab.com?user=js-neo&theme=dark&hide_border=true" />
 
 </div>
 
@@ -219,6 +221,7 @@ Browser-based Excel automation tool for spreadsheet generation and transformatio
 js-neo@matrix:~$ status
 MATRIX SYSTEMS: OPERATIONAL
 OPEN TO: collaboration / frontend / product engineering / automation
+STATUS: available for high-impact work
 ```
 
 ---
