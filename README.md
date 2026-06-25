@@ -244,6 +244,30 @@ Browser-based Excel automation tool focused on spreadsheet generation, transform
 
 ### `05 // ROUTE COST`
 
+Route pricing and dispatch-oriented transportation system for premium B2B trips, focused on route analysis, airport scenarios, city boundary logic, and multi-channel order intake.
+
+**Core stack:** `Next.js 16` `React` `TypeScript` `Tailwind CSS` `DDD-inspired architecture`
+
+**Backend & infrastructure:** `Next.js API Routes` `MongoDB Atlas` `BullMQ` `Redis` `Telegram Bot API` `Yandex Maps APIs`
+
+**Core capabilities:**
+- route cost calculation for city, airport, and boundary-crossing scenarios
+- Moscow and Saint Petersburg boundary analysis with MKAD / KAD crossing logic
+- airport tariff scenarios for VKO, SVO, DME, ZIA, and LED
+- manual alternative route selection with calculation comparison
+- Telegram order intake with structured route parsing and lifecycle states
+- dispatcher-oriented order processing foundation
+- operational status endpoints, scheduled jobs, and pending order expiration
+
+**Engineering focus:**
+- TypeScript-first domain model
+- DDD-inspired module boundaries
+- functional calculation logic
+- server-side geocoding and routing integration
+- production-oriented diagnostics and safety checks
+
+**Status:** active development / private business system
+
 ---
 
 ## `> training.sequence`
