@@ -141,108 +141,7 @@ const jsNeo = {
 
 ## `> active.missions`
 
-### `01 // JS-NEO MATRIX PORTFOLIO`
-
-Immersive Matrix-themed developer portfolio built as a branded system interface with terminal aesthetics, motion-rich interactions, and interactive 3D presentation.
-
-**Core stack:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Framer Motion`
-
-**Graphics & interaction:** `Three.js` `React Three Fiber` `React Three Drei` `Canvas API` `WebGL`
-
-**Key systems:**
-- interactive 3D scene and visual presentation layer
-- matrix rain, binary animations, particle effects
-- glitch text, terminal typing, hover interactions, page transitions
-- sound system powered by Web Audio API
-- code syntax highlighting with Shiki and theme switching
-- contact forms and API routes with validation and email delivery
-
-**Highlights:**
-- immersive frontend branding system
-- production-grade portfolio architecture
-- 60 FPS-oriented visual experience
-- fully responsive interface design
-
-**Access:** https://js-neo.com
-
----
-
-### `02 // WORKTIME AI`
-
-AI-powered work time tracking and automation ecosystem designed to reduce manual reporting and streamline media-heavy operational workflows.
-
-**Frontend:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Zustand` `ExcelJS`
-
-**Backend:** `TypeScript` `Express.js` `MongoDB` `Mongoose` `JWT` `bcryptjs` `Axios`
-
-**AI & automation:** `Python` `python-telegram-bot` `OpenAI` `Whisper` `MoviePy` `Google APIs`
-
-**Core capabilities:**
-- decentralized work time tracking
-- speech recognition and AI-assisted processing
-- video and photo workflow automation
-- automatic Excel report generation
-- Telegram bot integration
-- authentication and operational reporting flows
-
-**Reported impact:**
-- up to `80%` time savings
-- `0%` reported processing errors in target workflow
-- up to `30%` productivity growth
-
-**Access:** https://js-neo.github.io/chrono-control-saas-page/
-
----
-
-### `03 // GT REPORT PARSER`
-
-Advanced Excel and CSV analytics platform for multi-file report processing, preview workflows, filtering, transformation, and export-ready output.
-
-**Core stack:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS 4` `Framer Motion`
-
-**Libraries:** `ExcelJS` `React DnD` `Papa Parse` `JSZip`
-
-**Core capabilities:**
-- multi-file Excel and CSV processing
-- drag-and-drop interface for report ingestion
-- real-time preview and data validation
-- advanced filtering and transformation pipelines
-- export workflows for processed analytics
-
-**Data workflows:**
-- CSV and Excel parsing
-- commission calculation
-- city-based routing logic
-- structured report generation
-
-**Access:** https://gt-report-parser.vercel.app/
-
----
-
-### `04 // EXCEL WEB PROCESSOR`
-
-Browser-based Excel automation tool focused on spreadsheet generation, transformation, styling, merging, and client-side processing workflows.
-
-**Core stack:** `HTML5` `CSS3` `JavaScript ES6+` `Webpack` `Babel` `ExcelJS`
-
-**Core capabilities:**
-- Excel file merging
-- formula automation
-- cell styling and conditional formatting
-- data validation
-- file handling and blob-based browser processing
-
-**Processing features:**
-- real-time progress feedback
-- error handling
-- chunk-based processing
-- performance-oriented workflow execution
-
-**Access:** https://js-neo.github.io/excel-web-processor/
-
----
-
-### `05 // ROUTE COST`
+### `01 // ROUTE COST`
 
 Route pricing and dispatch-oriented transportation system for premium B2B trips, focused on route analysis, airport scenarios, city boundary logic, and multi-channel order intake.
 
@@ -269,6 +168,108 @@ Route pricing and dispatch-oriented transportation system for premium B2B trips,
 **Status:** active development / private business system
 
 ---
+
+### `02 // JS-NEO MATRIX PORTFOLIO`
+
+Immersive Matrix-themed developer portfolio built as a branded system interface with terminal aesthetics, motion-rich interactions, and interactive 3D presentation.
+
+**Core stack:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+**Graphics & interaction:** `Three.js` `React Three Fiber` `React Three Drei` `Canvas API` `WebGL`
+
+**Key systems:**
+- interactive 3D scene and visual presentation layer
+- matrix rain, binary animations, particle effects
+- glitch text, terminal typing, hover interactions, page transitions
+- sound system powered by Web Audio API
+- code syntax highlighting with Shiki and theme switching
+- contact forms and API routes with validation and email delivery
+
+**Highlights:**
+- immersive frontend branding system
+- production-grade portfolio architecture
+- 60 FPS-oriented visual experience
+- fully responsive interface design
+
+**Access:** https://js-neo.com
+
+---
+
+### `03 // WORKTIME AI`
+
+AI-powered work time tracking and automation ecosystem designed to reduce manual reporting and streamline media-heavy operational workflows.
+
+**Frontend:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Zustand` `ExcelJS`
+
+**Backend:** `TypeScript` `Express.js` `MongoDB` `Mongoose` `JWT` `bcryptjs` `Axios`
+
+**AI & automation:** `Python` `python-telegram-bot` `OpenAI` `Whisper` `MoviePy` `Google APIs`
+
+**Core capabilities:**
+- decentralized work time tracking
+- speech recognition and AI-assisted processing
+- video and photo workflow automation
+- automatic Excel report generation
+- Telegram bot integration
+- authentication and operational reporting flows
+
+**Reported impact:**
+- up to `80%` time savings
+- `0%` reported processing errors in target workflow
+- up to `30%` productivity growth
+
+**Access:** https://js-neo.github.io/chrono-control-saas-page/
+
+---
+
+### `04 // GT REPORT PARSER`
+
+Advanced Excel and CSV analytics platform for multi-file report processing, preview workflows, filtering, transformation, and export-ready output.
+
+**Core stack:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS 4` `Framer Motion`
+
+**Libraries:** `ExcelJS` `React DnD` `Papa Parse` `JSZip`
+
+**Core capabilities:**
+- multi-file Excel and CSV processing
+- drag-and-drop interface for report ingestion
+- real-time preview and data validation
+- advanced filtering and transformation pipelines
+- export workflows for processed analytics
+
+**Data workflows:**
+- CSV and Excel parsing
+- commission calculation
+- city-based routing logic
+- structured report generation
+
+**Access:** https://gt-report-parser.vercel.app/
+
+---
+
+### `05 // EXCEL WEB PROCESSOR`
+
+Browser-based Excel automation tool focused on spreadsheet generation, transformation, styling, merging, and client-side processing workflows.
+
+**Core stack:** `HTML5` `CSS3` `JavaScript ES6+` `Webpack` `Babel` `ExcelJS`
+
+**Core capabilities:**
+- Excel file merging
+- formula automation
+- cell styling and conditional formatting
+- data validation
+- file handling and blob-based browser processing
+
+**Processing features:**
+- real-time progress feedback
+- error handling
+- chunk-based processing
+- performance-oriented workflow execution
+
+**Access:** https://js-neo.github.io/excel-web-processor/
+
+---
+
 
 ## `> training.sequence`
 
