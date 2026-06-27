@@ -143,18 +143,22 @@ const jsNeo = {
 
 ### `01 // ROUTE COST`
 
-Route pricing and dispatch-oriented transportation system for premium B2B trips, focused on route analysis, airport scenarios, city boundary logic, and multi-channel order intake.
+Route pricing and dispatch-oriented transportation system for premium B2B transportation, focused on route analysis, airport scenarios, city boundary logic, and structured order intake.
 
-**Core stack:** `Next.js 16` `React` `TypeScript` `Tailwind CSS` `DDD-inspired architecture`
+**Business problem:** manual route pricing is error-prone when trips include airports, city boundaries, alternative routes, and premium tariff rules.
 
-**Backend & infrastructure:** `Next.js API Routes` `MongoDB Atlas` `BullMQ` `Redis` `Telegram Bot API` `Yandex Maps APIs`
+**System role:** Route Cost turns route data into structured pricing decisions and prepares the foundation for dispatcher-side order processing.
+
+**Core stack:** `Next.js 16` `React` `TypeScript` `Tailwind CSS`
+
+**Backend & infrastructure:** `Next.js API Routes` `MongoDB Atlas` `BullMQ` `Redis` `Telegram Bot API` `Yandex Routing / Geocoding APIs`
 
 **Core capabilities:**
 - route cost calculation for city, airport, and boundary-crossing scenarios
 - Moscow and Saint Petersburg boundary analysis with MKAD / KAD crossing logic
 - airport tariff scenarios for VKO, SVO, DME, ZIA, and LED
 - manual alternative route selection with calculation comparison
-- Telegram order intake with structured route parsing and lifecycle states
+- Telegram-based order intake with structured route parsing and lifecycle states
 - dispatcher-oriented order processing foundation
 - operational status endpoints, scheduled jobs, and pending order expiration
 
