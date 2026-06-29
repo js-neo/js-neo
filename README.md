@@ -141,9 +141,19 @@ const jsNeo = {
 
 ## `> active.missions`
 
+**Mission index**
+
+| Mission | Type | Stack                                | Status |
+|---|---|--------------------------------------|---|
+| Route Cost | B2B transport pricing system | Next.js, React, TypeScript, MongoDB, Redis | Private / active |
+| JS-Neo Matrix Portfolio | Developer portfolio | Next.js, Three.js, Framer Motion     | Public |
+| Worktime AI | Workflow automation | Next.js, Express, MongoDB, Python    | Public landing |
+| GT Report Parser | Report processing | Next.js, ExcelJS, Papa Parse         | Public |
+| Excel Web Processor | Browser Excel automation | JS, Webpack, ExcelJS                 | Public |
+
 ### `01 // ROUTE COST`
 
-Route pricing and dispatch-oriented transportation system for premium B2B transportation, focused on route analysis, airport scenarios, city boundary logic, and structured order intake.
+Route pricing and dispatch-oriented system for premium B2B transportation, focused on route analysis, airport scenarios, city boundary logic, and structured order intake.
 
 **Business problem:** manual route pricing is error-prone when trips include airports, city boundaries, alternative routes, and premium tariff rules.
 
